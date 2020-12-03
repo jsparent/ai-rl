@@ -5,7 +5,7 @@
 27 novembre - Automne 2020 
 Jean-Sébastien Parent
 
-![Breakout](breakout.png)
+![Breakout](images/breakout.png)
 
 
 # Mise en contexte
@@ -38,7 +38,7 @@ Le concept du jeu est fort simple; des rangées de brique en haut de l&#39;écra
 
 Un écran de jeu Breakout ressemble à ceci :
 
-![Breakout](breakout.png)
+![Breakout](images/breakout.png)
 
 Il est possible, pour l&#39;agent, de faire quatre (4) actions distinctes sur cette version du jeu (Breakout-ram-v0) :
 
@@ -69,7 +69,7 @@ Cela permet de faire de l&#39;apprentissage supervisé car on se trouve dans une
 
 Voici le processus de décision de markov préliminaire qui serait applicable au jeu « Breakout » :
 
-![Breakout](PDM.png)
+![Breakout](images/PDM.png)
 
 # Une première approche : l&#39;algorithme DQN
 
@@ -121,7 +121,7 @@ Au début de tout, j&#39;ai parfois constaté que l&#39;algorithme était vraime
 
 J&#39;ai fait différents essais avec un réseau de neurones de 2X150 couches. L&#39;algorithme apprend un peu, mais c&#39;est surtout aléatoire :
 
-![](001.png)
+![](images/001.png)
 
 J&#39;ai fait de nombreux essais (très longs à rouler d&#39;ailleurs) et j&#39;obtenais toujours plus ou moins des résultats semblable (un score autour de 6 points dans le meilleur des cas).
 
@@ -129,33 +129,33 @@ J&#39;ai alors commencé à regarder ce qui pouvait se passer et pourquoi l&#39;
 
 J&#39;ai donc regardé comment je pourrais détecter si une vie avait été perdue; j&#39;ai fait cela en comparant les bytes de la RAM entre chaque état et en validant le nombre de vies restantes affichées à l&#39;écran vs l&#39;état de la mémoire :
 
-![](Bytes.png)
+![](images/Bytes.png)
 
 J&#39;ai donc identifié le _byte_ qui m&#39;intéressait et lorsque l&#39;état suivant avait une valeur inférieure pour ce byte à l&#39;état actuel, je pouvais assurément détecter une perte de vie. J&#39;ai donc introduit un concept de récompense négative à -100. (Suite à une discussion avec Mikael à ce propos, il m&#39;a fait remarquer que ce n&#39;était pas une bonne idée, car on se trouvait à tricher l&#39;environnement et ne plus respecter le concept d&#39;apprentissage par renforcement dans un tel cas; je comprends tout à fait, mais je vais quand même exposer ce que cela m&#39;a permis d&#39;atteindre comme score).
 
 J&#39;ai aussi voulu mettre un concept de pénalité sur le temps qui s&#39;échappe, pour tester, à raison de -0.01; j&#39;ai cependant laisser tomber ce concept suite à la discussion avec Mikael, bien que j&#39;ai gardé le code pour le faire (je passe désormais 0 aux 2 valeurs par défaut).
 
-![](002.png)
+![](images/002.png)
 
 Avec cette stratégie en place, j&#39;ai obtenu des résultats avec un score de 15 points :
 
-![](003.png)
+![](images/003.png)
 
 J&#39;ai ensuite voulu pousser plus loin en « simulant » que les états de vies demeuraient stables, de mêmes que le score, car dans les faits, ces 2 valeurs ne devraient pas avoir d&#39;incidence sur l&#39;action à poser. En effet, qu&#39;il reste 2 ou 5 vies, la décision de bouger à droite ou à gauche ne devrait pas être différente. Même chose pour le score. J&#39;ai plus tard abandonné ce concept également, pour ne pas altérer l&#39;environnement et l&#39;agent.
 
 À cet effet, j&#39;ai également essayé de limiter à une vie les épisodes, de façon à obtenir le meilleur score à une vie (ultimement, on veut maximiser le score à chaque vie et non sur la partie, car ce faisant on va maximiser le score de la partie, du moins c&#39;était mon hypothèse). J&#39;ai obtenu de bons résultats, à savoir jusqu&#39;à 9 points par vie (donc théoriquement un genre de 45 points si j&#39;extrapole et je suis optimiste sur les 5 vies).
 
-![](004.png)
+![](images/004.png)
 
 J&#39;ai par la suite tenté d&#39;ajuster les couches de neurones en mettant 2X128, toujours à une seule vie. Dans ce cas, on voit que ça a été vraiment long avant que le modèle ne découvre que l&#39;action FIRE initiait le jeu, car le score demeure sensiblement le même :
 
-![](005.png)
+![](images/005.png)
 
 ### Retour au modèle sans pénalité de vie
 
 Je suis revenu à un modèle où je n&#39;altérais pas les récompenses ni les états. J&#39;ai décidé d&#39;essayer avec 4 couches de 128 neurones.
 
-![](006.png)
+![](images/006.png)
 
 On voit qu&#39;à un certain moment autour du 500e épisodes, le modèle a pris plus de temps avant de lancer la balle, mais n&#39;a pas amélioré son score pour autant. J&#39;ai obtenu 11 comme maximum dans ce cas. Un peu décourageant quand on pense que les meilleurs algorithmes peuvent aller jusqu&#39;à 430 environ.
 
@@ -175,7 +175,7 @@ Ce modèle apprend à la fois la politique et la fonction de valeur au cours de 
 
 ### Premier essai avec 2 couches de 32 neurones, _alpha = 0.001, beta = 0.005_
 
-![](007.png)
+![](images/007.png)
 
 - Meilleur score obtenu: 9.0
 - Durée moyenne: 289.4 actions
@@ -187,7 +187,7 @@ J&#39;ai diminué _gamma_ à 0.95 et ensuite à 0.8 au lieu de 0.99, par curiosi
 
 Je voulais voir l&#39;incidence du changement de _learning rate_ sur l&#39;acteur (alpha) et le critique (beta), voici les résultats obtenus (pas très différents) :
 
-![](008.png)
+![](images/008.png)
 
 - Meilleur score obtenu: 7.0
 - Durée moyenne: 302.3 actions

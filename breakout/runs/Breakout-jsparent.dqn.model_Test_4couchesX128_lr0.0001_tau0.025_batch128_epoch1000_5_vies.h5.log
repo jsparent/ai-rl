@@ -1,0 +1,1598 @@
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' n'existe pas, création d'un nouveau modèle
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 10000 épisodes, débutée le 2020-11-17 18:37:47...
+--------------------------------------------------------
+Épisode 1/10000: R=3.0, Steps=314
+	Nouveau meilleur score à date : 3.0, épisode #1
+Épisode 3/10000: R=2.0, Steps=268
+(Agent) self.epsilon rendu à 0.975
+Épisode 4/10000: R=2.0, Steps=293
+Épisode 5/10000: R=2.0, Steps=303
+Épisode 6/10000: R=1.0, Steps=235
+(Agent) self.epsilon rendu à 0.9506249999999999
+Épisode 11/10000: R=1.0, Steps=221
+Épisode 12/10000: R=1.0, Steps=207
+(Agent) self.epsilon rendu à 0.9268593749999999
+Épisode 15/10000: R=2.0, Steps=290
+Épisode 16/10000: R=1.0, Steps=233
+Épisode 17/10000: R=1.0, Steps=209
+(Agent) self.epsilon rendu à 0.9036878906249999
+Épisode 21/10000: R=4.0, Steps=385
+	Nouveau meilleur score à date : 4.0, épisode #21
+(Agent) self.epsilon rendu à 0.8810956933593749
+Épisode 22/10000: R=2.0, Steps=295
+Épisode 23/10000: R=2.0, Steps=248
+Épisode 24/10000: R=4.0, Steps=385
+Épisode 25/10000: R=1.0, Steps=243
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.8590683010253904
+Épisode 27/10000: R=1.0, Steps=230
+Épisode 28/10000: R=5.0, Steps=428
+	Nouveau meilleur score à date : 5.0, épisode #28
+(Agent) self.epsilon rendu à 0.8375915934997556
+Épisode 30/10000: R=2.0, Steps=269
+Épisode 31/10000: R=1.0, Steps=211
+Épisode 32/10000: R=2.0, Steps=270
+Épisode 33/10000: R=1.0, Steps=236
+(Agent) self.epsilon rendu à 0.8166518036622618
+Épisode 36/10000: R=1.0, Steps=240
+Épisode 37/10000: R=2.0, Steps=275
+(Agent) self.epsilon rendu à 0.7962355085707052
+Épisode 38/10000: R=2.0, Steps=247
+Épisode 39/10000: R=3.0, Steps=321
+Épisode 41/10000: R=1.0, Steps=256
+(Agent) self.epsilon rendu à 0.7763296208564376
+Épisode 43/10000: R=2.0, Steps=284
+Épisode 44/10000: R=1.0, Steps=213
+(Agent) self.epsilon rendu à 0.7569213803350267
+Épisode 48/10000: R=3.0, Steps=352
+Épisode 49/10000: R=1.0, Steps=214
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.7379983458266509
+Épisode 54/10000: R=2.0, Steps=274
+(Agent) self.epsilon rendu à 0.7195483871809846
+Épisode 55/10000: R=5.0, Steps=469
+Épisode 56/10000: R=2.0, Steps=277
+Épisode 58/10000: R=2.0, Steps=276
+(Agent) self.epsilon rendu à 0.70155967750146
+Épisode 59/10000: R=2.0, Steps=285
+Épisode 60/10000: R=1.0, Steps=261
+Épisode 62/10000: R=3.0, Steps=347
+(Agent) self.epsilon rendu à 0.6840206855639235
+Épisode 64/10000: R=1.0, Steps=224
+Épisode 65/10000: R=1.0, Steps=228
+Épisode 66/10000: R=3.0, Steps=330
+(Agent) self.epsilon rendu à 0.6669201684248254
+Épisode 67/10000: R=2.0, Steps=251
+Épisode 68/10000: R=1.0, Steps=214
+Épisode 69/10000: R=2.0, Steps=257
+Épisode 70/10000: R=1.0, Steps=220
+(Agent) self.epsilon rendu à 0.6502471642142047
+Épisode 72/10000: R=1.0, Steps=268
+Épisode 73/10000: R=2.0, Steps=278
+Épisode 74/10000: R=4.0, Steps=419
+(Agent) self.epsilon rendu à 0.6339909851088495
+Épisode 75/10000: R=1.0, Steps=269
+(Agent) Mise à jour du fichier modèle
+Épisode 76/10000: R=2.0, Steps=285
+Épisode 77/10000: R=2.0, Steps=275
+(Agent) self.epsilon rendu à 0.6181412104811282
+Épisode 78/10000: R=3.0, Steps=320
+Épisode 79/10000: R=3.0, Steps=369
+Épisode 80/10000: R=2.0, Steps=279
+(Agent) self.epsilon rendu à 0.6026876802191
+Épisode 84/10000: R=1.0, Steps=255
+Épisode 85/10000: R=1.0, Steps=235
+(Agent) self.epsilon rendu à 0.5876204882136226
+Épisode 86/10000: R=1.0, Steps=234
+Épisode 90/10000: R=1.0, Steps=228
+(Agent) self.epsilon rendu à 0.572929976008282
+Épisode 91/10000: R=2.0, Steps=273
+Épisode 92/10000: R=1.0, Steps=245
+Épisode 94/10000: R=3.0, Steps=347
+(Agent) self.epsilon rendu à 0.558606726608075
+Épisode 95/10000: R=2.0, Steps=293
+Épisode 97/10000: R=3.0, Steps=384
+Épisode 98/10000: R=1.0, Steps=228
+(Agent) self.epsilon rendu à 0.5446415584428731
+Épisode 99/10000: R=1.0, Steps=204
+(Agent) Mise à jour du fichier modèle
+Épisode 101/10000: R=1.0, Steps=273
+Épisode 103/10000: R=1.0, Steps=257
+(Agent) self.epsilon rendu à 0.5310255194818012
+Épisode 104/10000: R=4.0, Steps=404
+(Agent) self.epsilon rendu à 0.5177498814947562
+Épisode 107/10000: R=4.0, Steps=425
+Épisode 108/10000: R=7.0, Steps=513
+	Nouveau meilleur score à date (pour une vie): 7.0, épisode #108
+(Agent) self.epsilon rendu à 0.5048061344573873
+Épisode 109/10000: R=4.0, Steps=382
+Épisode 110/10000: R=1.0, Steps=244
+Épisode 111/10000: R=1.0, Steps=213
+Épisode 112/10000: R=2.0, Steps=325
+(Agent) self.epsilon rendu à 0.49218598109595263
+Épisode 113/10000: R=4.0, Steps=359
+Épisode 114/10000: R=3.0, Steps=336
+(Agent) self.epsilon rendu à 0.4798813315685538
+Épisode 116/10000: R=5.0, Steps=440
+Épisode 117/10000: R=5.0, Steps=474
+(Agent) self.epsilon rendu à 0.4678842982793399
+Épisode 118/10000: R=3.0, Steps=361
+Épisode 119/10000: R=3.0, Steps=341
+Épisode 120/10000: R=1.0, Steps=211
+Épisode 121/10000: R=2.0, Steps=319
+(Agent) self.epsilon rendu à 0.4561871908223564
+Épisode 122/10000: R=1.0, Steps=218
+Épisode 123/10000: R=1.0, Steps=211
+Épisode 125/10000: R=1.0, Steps=224
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.4447825110517975
+Épisode 126/10000: R=4.0, Steps=434
+Épisode 127/10000: R=3.0, Steps=369
+Épisode 128/10000: R=2.0, Steps=272
+(Agent) self.epsilon rendu à 0.43366294827550256
+Épisode 129/10000: R=4.0, Steps=397
+Épisode 130/10000: R=1.0, Steps=247
+Épisode 131/10000: R=2.0, Steps=279
+(Agent) self.epsilon rendu à 0.42282137456861496
+Épisode 132/10000: R=5.0, Steps=465
+Épisode 133/10000: R=4.0, Steps=406
+(Agent) self.epsilon rendu à 0.41225084020439956
+Épisode 134/10000: R=4.0, Steps=432
+Épisode 135/10000: R=4.0, Steps=383
+Épisode 136/10000: R=3.0, Steps=353
+(Agent) self.epsilon rendu à 0.40194456919928956
+Épisode 138/10000: R=5.0, Steps=452
+Épisode 139/10000: R=7.0, Steps=547
+(Agent) self.epsilon rendu à 0.3918959549693073
+Épisode 140/10000: R=2.0, Steps=285
+Épisode 141/10000: R=2.0, Steps=295
+Épisode 142/10000: R=5.0, Steps=431
+(Agent) self.epsilon rendu à 0.3820985560950746
+Épisode 143/10000: R=2.0, Steps=248
+Épisode 144/10000: R=3.0, Steps=342
+Épisode 145/10000: R=1.0, Steps=236
+(Agent) self.epsilon rendu à 0.37254609219269774
+Épisode 146/10000: R=2.0, Steps=299
+Épisode 148/10000: R=3.0, Steps=388
+Épisode 149/10000: R=1.0, Steps=232
+(Agent) self.epsilon rendu à 0.3632324398878803
+Épisode 150/10000: R=9.0, Steps=450
+	Nouveau meilleur score à date (pour une vie): 9.0, épisode #150
+(Agent) Mise à jour du fichier modèle
+Épisode 151/10000: R=3.0, Steps=399
+Épisode 152/10000: R=2.0, Steps=248
+(Agent) self.epsilon rendu à 0.35415162889068325
+Épisode 154/10000: R=2.0, Steps=256
+Épisode 155/10000: R=1.0, Steps=199
+Épisode 156/10000: R=1.0, Steps=221
+(Agent) self.epsilon rendu à 0.34529783816841614
+Épisode 157/10000: R=2.0, Steps=260
+Épisode 158/10000: R=2.0, Steps=276
+Épisode 159/10000: R=2.0, Steps=258
+(Agent) self.epsilon rendu à 0.3366653922142057
+Épisode 160/10000: R=5.0, Steps=387
+Épisode 161/10000: R=1.0, Steps=224
+Épisode 162/10000: R=4.0, Steps=389
+Épisode 163/10000: R=1.0, Steps=220
+(Agent) self.epsilon rendu à 0.32824875740885057
+Épisode 164/10000: R=3.0, Steps=345
+Épisode 165/10000: R=1.0, Steps=218
+Épisode 166/10000: R=2.0, Steps=259
+Épisode 167/10000: R=2.0, Steps=278
+(Agent) self.epsilon rendu à 0.3200425384736293
+Épisode 168/10000: R=2.0, Steps=243
+Épisode 170/10000: R=2.0, Steps=264
+Épisode 171/10000: R=1.0, Steps=257
+(Agent) self.epsilon rendu à 0.3120414750117885
+Épisode 172/10000: R=1.0, Steps=199
+Épisode 173/10000: R=2.0, Steps=316
+Épisode 174/10000: R=1.0, Steps=211
+(Agent) self.epsilon rendu à 0.3042404381364938
+Épisode 175/10000: R=5.0, Steps=484
+(Agent) Mise à jour du fichier modèle
+Épisode 176/10000: R=1.0, Steps=280
+Épisode 177/10000: R=2.0, Steps=301
+Épisode 178/10000: R=2.0, Steps=266
+(Agent) self.epsilon rendu à 0.2966344271830815
+Épisode 179/10000: R=1.0, Steps=212
+Épisode 180/10000: R=3.0, Steps=361
+Épisode 181/10000: R=1.0, Steps=213
+(Agent) self.epsilon rendu à 0.2892185665035044
+Épisode 182/10000: R=2.0, Steps=284
+Épisode 183/10000: R=2.0, Steps=281
+Épisode 184/10000: R=2.0, Steps=284
+Épisode 185/10000: R=1.0, Steps=259
+(Agent) self.epsilon rendu à 0.2819881023409168
+Épisode 186/10000: R=4.0, Steps=333
+Épisode 187/10000: R=5.0, Steps=432
+Épisode 188/10000: R=3.0, Steps=347
+(Agent) self.epsilon rendu à 0.27493839978239387
+Épisode 189/10000: R=2.0, Steps=259
+Épisode 190/10000: R=7.0, Steps=516
+(Agent) self.epsilon rendu à 0.268064939787834
+Épisode 191/10000: R=5.0, Steps=453
+Épisode 192/10000: R=2.0, Steps=284
+Épisode 193/10000: R=2.0, Steps=270
+(Agent) self.epsilon rendu à 0.2613633162931382
+Épisode 194/10000: R=2.0, Steps=270
+Épisode 195/10000: R=1.0, Steps=226
+Épisode 196/10000: R=2.0, Steps=263
+Épisode 197/10000: R=1.0, Steps=213
+Épisode 198/10000: R=2.0, Steps=251
+(Agent) self.epsilon rendu à 0.2548292333858097
+Épisode 199/10000: R=3.0, Steps=283
+Épisode 200/10000: R=2.0, Steps=252
+(Agent) Mise à jour du fichier modèle
+Épisode 201/10000: R=2.0, Steps=342
+(Agent) self.epsilon rendu à 0.24845850255116445
+Épisode 202/10000: R=2.0, Steps=323
+Épisode 203/10000: R=4.0, Steps=363
+Épisode 204/10000: R=3.0, Steps=333
+(Agent) self.epsilon rendu à 0.24224703998738534
+Épisode 205/10000: R=1.0, Steps=248
+Épisode 206/10000: R=2.0, Steps=270
+Épisode 207/10000: R=4.0, Steps=437
+(Agent) self.epsilon rendu à 0.2361908639877007
+Épisode 208/10000: R=2.0, Steps=275
+Épisode 209/10000: R=3.0, Steps=359
+Épisode 210/10000: R=1.0, Steps=246
+(Agent) self.epsilon rendu à 0.23028609238800818
+Épisode 211/10000: R=3.0, Steps=314
+Épisode 212/10000: R=1.0, Steps=223
+Épisode 213/10000: R=2.0, Steps=294
+Épisode 214/10000: R=1.0, Steps=280
+(Agent) self.epsilon rendu à 0.22452894007830798
+Épisode 215/10000: R=2.0, Steps=259
+Épisode 216/10000: R=3.0, Steps=369
+Épisode 217/10000: R=2.0, Steps=322
+(Agent) self.epsilon rendu à 0.21891571657635028
+Épisode 218/10000: R=3.0, Steps=323
+Épisode 219/10000: R=4.0, Steps=407
+Épisode 220/10000: R=5.0, Steps=439
+(Agent) self.epsilon rendu à 0.21344282366194153
+Épisode 221/10000: R=3.0, Steps=412
+Épisode 222/10000: R=4.0, Steps=457
+(Agent) self.epsilon rendu à 0.208106753070393
+Épisode 223/10000: R=3.0, Steps=346
+Épisode 224/10000: R=3.0, Steps=327
+Épisode 225/10000: R=3.0, Steps=342
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.20290408424363318
+Épisode 228/10000: R=3.0, Steps=344
+(Agent) self.epsilon rendu à 0.19783148213754234
+Épisode 229/10000: R=6.0, Steps=500
+Épisode 231/10000: R=2.0, Steps=337
+Épisode 232/10000: R=1.0, Steps=249
+(Agent) self.epsilon rendu à 0.19288569508410378
+Épisode 233/10000: R=4.0, Steps=389
+Épisode 234/10000: R=2.0, Steps=278
+Épisode 235/10000: R=3.0, Steps=347
+(Agent) self.epsilon rendu à 0.18806355270700117
+Épisode 236/10000: R=4.0, Steps=426
+Épisode 237/10000: R=2.0, Steps=294
+Épisode 238/10000: R=2.0, Steps=277
+(Agent) self.epsilon rendu à 0.18336196388932613
+Épisode 239/10000: R=3.0, Steps=362
+Épisode 240/10000: R=3.0, Steps=344
+Épisode 241/10000: R=3.0, Steps=315
+(Agent) self.epsilon rendu à 0.17877791479209298
+Épisode 242/10000: R=1.0, Steps=212
+Épisode 244/10000: R=2.0, Steps=269
+Épisode 245/10000: R=2.0, Steps=263
+(Agent) self.epsilon rendu à 0.17430846692229066
+Épisode 246/10000: R=2.0, Steps=263
+Épisode 247/10000: R=2.0, Steps=266
+Épisode 248/10000: R=2.0, Steps=271
+Épisode 249/10000: R=1.0, Steps=225
+(Agent) self.epsilon rendu à 0.1699507552492334
+Épisode 250/10000: R=3.0, Steps=324
+(Agent) Mise à jour du fichier modèle
+Épisode 251/10000: R=2.0, Steps=285
+Épisode 252/10000: R=5.0, Steps=490
+(Agent) self.epsilon rendu à 0.16570198636800254
+Épisode 253/10000: R=4.0, Steps=372
+Épisode 254/10000: R=3.0, Steps=342
+Épisode 255/10000: R=1.0, Steps=237
+(Agent) self.epsilon rendu à 0.16155943670880246
+Épisode 256/10000: R=3.0, Steps=348
+Épisode 258/10000: R=4.0, Steps=424
+(Agent) self.epsilon rendu à 0.1575204507910824
+Épisode 259/10000: R=5.0, Steps=448
+Épisode 260/10000: R=1.0, Steps=205
+(Agent) self.epsilon rendu à 0.15358243952130535
+Épisode 262/10000: R=3.0, Steps=379
+Épisode 263/10000: R=3.0, Steps=381
+Épisode 264/10000: R=2.0, Steps=290
+Épisode 265/10000: R=1.0, Steps=199
+(Agent) self.epsilon rendu à 0.1497428785332727
+Épisode 266/10000: R=3.0, Steps=332
+Épisode 267/10000: R=4.0, Steps=364
+(Agent) self.epsilon rendu à 0.14599930656994087
+Épisode 269/10000: R=2.0, Steps=283
+Épisode 270/10000: R=3.0, Steps=399
+(Agent) self.epsilon rendu à 0.14234932390569235
+Épisode 272/10000: R=6.0, Steps=525
+Épisode 273/10000: R=2.0, Steps=353
+(Agent) self.epsilon rendu à 0.13879059080805004
+(Agent) Mise à jour du fichier modèle
+Épisode 276/10000: R=2.0, Steps=298
+(Agent) self.epsilon rendu à 0.13532082603784878
+Épisode 279/10000: R=3.0, Steps=351
+Épisode 281/10000: R=9.0, Steps=490
+(Agent) self.epsilon rendu à 0.13193780538690256
+Épisode 282/10000: R=3.0, Steps=349
+Épisode 284/10000: R=4.0, Steps=499
+(Agent) self.epsilon rendu à 0.12863936025223
+Épisode 285/10000: R=2.0, Steps=324
+Épisode 287/10000: R=1.0, Steps=291
+Épisode 288/10000: R=1.0, Steps=271
+(Agent) self.epsilon rendu à 0.12542337624592423
+Épisode 289/10000: R=4.0, Steps=545
+Épisode 290/10000: R=4.0, Steps=402
+(Agent) self.epsilon rendu à 0.12228779183977612
+Épisode 291/10000: R=3.0, Steps=335
+Épisode 292/10000: R=1.0, Steps=250
+Épisode 293/10000: R=1.0, Steps=242
+(Agent) self.epsilon rendu à 0.11923059704378171
+Épisode 294/10000: R=4.0, Steps=407
+Épisode 295/10000: R=3.0, Steps=333
+Épisode 296/10000: R=3.0, Steps=310
+(Agent) self.epsilon rendu à 0.11624983211768716
+Épisode 297/10000: R=2.0, Steps=299
+Épisode 298/10000: R=5.0, Steps=431
+Épisode 299/10000: R=3.0, Steps=389
+(Agent) self.epsilon rendu à 0.11334358631474498
+Épisode 300/10000: R=1.0, Steps=299
+(Agent) Mise à jour du fichier modèle
+Épisode 301/10000: R=1.0, Steps=237
+Épisode 302/10000: R=3.0, Steps=376
+Épisode 303/10000: R=1.0, Steps=231
+(Agent) self.epsilon rendu à 0.11050999665687634
+Épisode 304/10000: R=1.0, Steps=225
+Épisode 305/10000: R=4.0, Steps=396
+Épisode 306/10000: R=3.0, Steps=329
+(Agent) self.epsilon rendu à 0.10774724674045444
+Épisode 307/10000: R=2.0, Steps=288
+Épisode 308/10000: R=2.0, Steps=315
+Épisode 309/10000: R=3.0, Steps=398
+(Agent) self.epsilon rendu à 0.10505356557194308
+Épisode 310/10000: R=1.0, Steps=240
+Épisode 311/10000: R=1.0, Steps=263
+(Agent) self.epsilon rendu à 0.1024272264326445
+Épisode 313/10000: R=1.0, Steps=270
+Épisode 314/10000: R=2.0, Steps=323
+Épisode 315/10000: R=1.0, Steps=260
+(Agent) self.epsilon rendu à 0.09986654577182838
+Épisode 316/10000: R=3.0, Steps=543
+Épisode 317/10000: R=2.0, Steps=445
+Épisode 318/10000: R=1.0, Steps=253
+(Agent) self.epsilon rendu à 0.09736988212753267
+Épisode 319/10000: R=3.0, Steps=327
+Épisode 320/10000: R=3.0, Steps=326
+Épisode 321/10000: R=4.0, Steps=407
+(Agent) self.epsilon rendu à 0.09493563507434435
+Épisode 322/10000: R=1.0, Steps=207
+Épisode 323/10000: R=5.0, Steps=471
+Épisode 324/10000: R=2.0, Steps=344
+(Agent) self.epsilon rendu à 0.09256224419748574
+Épisode 325/10000: R=3.0, Steps=367
+(Agent) Mise à jour du fichier modèle
+Épisode 326/10000: R=4.0, Steps=377
+(Agent) self.epsilon rendu à 0.09024818809254859
+Épisode 327/10000: R=2.0, Steps=341
+Épisode 329/10000: R=3.0, Steps=349
+(Agent) self.epsilon rendu à 0.08799198339023487
+Épisode 330/10000: R=4.0, Steps=473
+(Agent) self.epsilon rendu à 0.085792183805479
+Épisode 335/10000: R=5.0, Steps=467
+(Agent) self.epsilon rendu à 0.08364737921034202
+Épisode 336/10000: R=5.0, Steps=512
+(Agent) self.epsilon rendu à 0.08155619473008346
+Épisode 341/10000: R=1.0, Steps=276
+Épisode 342/10000: R=4.0, Steps=373
+Épisode 343/10000: R=6.0, Steps=520
+(Agent) self.epsilon rendu à 0.07951728986183138
+Épisode 344/10000: R=1.0, Steps=268
+Épisode 345/10000: R=3.0, Steps=438
+(Agent) self.epsilon rendu à 0.0775293576152856
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.07559112367490345
+Épisode 355/10000: R=3.0, Steps=362
+(Agent) self.epsilon rendu à 0.07370134558303086
+Épisode 358/10000: R=2.0, Steps=282
+Épisode 360/10000: R=2.0, Steps=400
+(Agent) self.epsilon rendu à 0.07185881194345509
+Épisode 362/10000: R=2.0, Steps=300
+Épisode 363/10000: R=3.0, Steps=348
+(Agent) self.epsilon rendu à 0.07006234164486871
+Épisode 366/10000: R=6.0, Steps=469
+Épisode 367/10000: R=3.0, Steps=343
+(Agent) self.epsilon rendu à 0.068310783103747
+Épisode 368/10000: R=2.0, Steps=298
+Épisode 369/10000: R=3.0, Steps=369
+Épisode 370/10000: R=3.0, Steps=385
+(Agent) self.epsilon rendu à 0.06660301352615332
+Épisode 371/10000: R=2.0, Steps=367
+Épisode 372/10000: R=1.0, Steps=341
+Épisode 373/10000: R=1.0, Steps=304
+(Agent) self.epsilon rendu à 0.06493793818799948
+Épisode 375/10000: R=2.0, Steps=306
+(Agent) Mise à jour du fichier modèle
+Épisode 377/10000: R=1.0, Steps=336
+(Agent) self.epsilon rendu à 0.06331448973329949
+Épisode 378/10000: R=3.0, Steps=488
+(Agent) self.epsilon rendu à 0.061731627489967
+Épisode 381/10000: R=1.0, Steps=443
+Épisode 383/10000: R=1.0, Steps=228
+(Agent) self.epsilon rendu à 0.060188336802717825
+Épisode 384/10000: R=1.0, Steps=256
+(Agent) self.epsilon rendu à 0.05868362838264988
+Épisode 388/10000: R=3.0, Steps=475
+Épisode 389/10000: R=1.0, Steps=272
+(Agent) self.epsilon rendu à 0.05721653767308363
+Épisode 390/10000: R=2.0, Steps=422
+Épisode 391/10000: R=2.0, Steps=490
+(Agent) self.epsilon rendu à 0.055786124231256534
+Épisode 392/10000: R=2.0, Steps=502
+Épisode 393/10000: R=3.0, Steps=309
+Épisode 395/10000: R=2.0, Steps=286
+(Agent) self.epsilon rendu à 0.05439147112547512
+Épisode 398/10000: R=1.0, Steps=271
+(Agent) self.epsilon rendu à 0.053031684347338244
+Épisode 399/10000: R=1.0, Steps=480
+Épisode 400/10000: R=1.0, Steps=319
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.05170589223865479
+Épisode 403/10000: R=3.0, Steps=387
+(Agent) self.epsilon rendu à 0.050413244932688416
+Épisode 404/10000: R=2.0, Steps=399
+(Agent) self.epsilon rendu à 0.0491529138093712
+Épisode 405/10000: R=4.0, Steps=921
+Épisode 406/10000: R=4.0, Steps=418
+Épisode 407/10000: R=3.0, Steps=358
+(Agent) self.epsilon rendu à 0.04792409096413692
+Épisode 408/10000: R=1.0, Steps=306
+Épisode 409/10000: R=2.0, Steps=426
+Épisode 410/10000: R=1.0, Steps=225
+(Agent) self.epsilon rendu à 0.04672598869003349
+Épisode 411/10000: R=1.0, Steps=273
+Épisode 412/10000: R=1.0, Steps=556
+(Agent) self.epsilon rendu à 0.045557838972782656
+Épisode 413/10000: R=1.0, Steps=497
+Épisode 414/10000: R=3.0, Steps=464
+Épisode 415/10000: R=1.0, Steps=315
+(Agent) self.epsilon rendu à 0.04441889299846309
+Épisode 416/10000: R=2.0, Steps=507
+(Agent) self.epsilon rendu à 0.04330842067350151
+Épisode 418/10000: R=1.0, Steps=331
+Épisode 419/10000: R=4.0, Steps=383
+Épisode 420/10000: R=3.0, Steps=363
+(Agent) self.epsilon rendu à 0.04222571015666397
+Épisode 421/10000: R=1.0, Steps=303
+Épisode 422/10000: R=4.0, Steps=701
+(Agent) self.epsilon rendu à 0.041170067402747375
+Épisode 424/10000: R=3.0, Steps=601
+(Agent) self.epsilon rendu à 0.04014081571767869
+(Agent) Mise à jour du fichier modèle
+Épisode 427/10000: R=4.0, Steps=460
+(Agent) self.epsilon rendu à 0.03913729532473672
+Épisode 428/10000: R=2.0, Steps=451
+Épisode 429/10000: R=3.0, Steps=373
+(Agent) self.epsilon rendu à 0.0381588629416183
+Épisode 431/10000: R=3.0, Steps=298
+Épisode 432/10000: R=2.0, Steps=310
+Épisode 433/10000: R=3.0, Steps=303
+(Agent) self.epsilon rendu à 0.03720489136807784
+Épisode 434/10000: R=4.0, Steps=358
+Épisode 435/10000: R=4.0, Steps=436
+(Agent) self.epsilon rendu à 0.0362747690838759
+Épisode 436/10000: R=3.0, Steps=313
+Épisode 437/10000: R=4.0, Steps=337
+(Agent) self.epsilon rendu à 0.035367899856778996
+Épisode 438/10000: R=2.0, Steps=652
+Épisode 439/10000: R=3.0, Steps=299
+Épisode 440/10000: R=5.0, Steps=407
+(Agent) self.epsilon rendu à 0.03448370236035952
+Épisode 441/10000: R=4.0, Steps=370
+Épisode 442/10000: R=1.0, Steps=273
+Épisode 443/10000: R=3.0, Steps=301
+(Agent) self.epsilon rendu à 0.03362160980135053
+Épisode 444/10000: R=4.0, Steps=370
+Épisode 445/10000: R=3.0, Steps=345
+Épisode 446/10000: R=3.0, Steps=394
+Épisode 447/10000: R=1.0, Steps=204
+(Agent) self.epsilon rendu à 0.032781069556316766
+Épisode 448/10000: R=4.0, Steps=651
+(Agent) self.epsilon rendu à 0.031961542817408845
+Épisode 449/10000: R=3.0, Steps=464
+Épisode 450/10000: R=2.0, Steps=511
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.031162504246973623
+Épisode 451/10000: R=2.0, Steps=591
+Épisode 452/10000: R=1.0, Steps=508
+Épisode 453/10000: R=2.0, Steps=243
+(Agent) self.epsilon rendu à 0.030383441640799282
+Épisode 454/10000: R=3.0, Steps=402
+(Agent) self.epsilon rendu à 0.0296238555997793
+Épisode 455/10000: R=2.0, Steps=791
+Épisode 456/10000: R=2.0, Steps=263
+Épisode 457/10000: R=2.0, Steps=283
+(Agent) self.epsilon rendu à 0.028883259209784816
+Épisode 458/10000: R=1.0, Steps=382
+Épisode 459/10000: R=3.0, Steps=317
+Épisode 461/10000: R=1.0, Steps=201
+(Agent) self.epsilon rendu à 0.028161177729540195
+(Agent) self.epsilon rendu à 0.027457148286301688
+Épisode 464/10000: R=3.0, Steps=410
+Épisode 465/10000: R=1.0, Steps=213
+(Agent) self.epsilon rendu à 0.026770719579144144
+Épisode 466/10000: R=1.0, Steps=848
+Épisode 467/10000: R=5.0, Steps=384
+Épisode 468/10000: R=1.0, Steps=248
+(Agent) self.epsilon rendu à 0.02610145158966554
+Épisode 469/10000: R=1.0, Steps=449
+(Agent) self.epsilon rendu à 0.0254489152999239
+Épisode 471/10000: R=2.0, Steps=595
+(Agent) self.epsilon rendu à 0.024812692417425803
+Épisode 472/10000: R=7.0, Steps=532
+(Agent) self.epsilon rendu à 0.02419237510699016
+Épisode 474/10000: R=2.0, Steps=760
+(Agent) self.epsilon rendu à 0.023587565729315405
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.02299787658608252
+Épisode 476/10000: R=1.0, Steps=520
+(Agent) self.epsilon rendu à 0.022422929671430458
+Épisode 478/10000: R=4.0, Steps=977
+(Agent) self.epsilon rendu à 0.021862356429644694
+(Agent) self.epsilon rendu à 0.021315797518903577
+(Agent) self.epsilon rendu à 0.020782902580930986
+Épisode 481/10000: R=2.0, Steps=1137
+(Agent) self.epsilon rendu à 0.02026333001640771
+(Agent) self.epsilon rendu à 0.019756746765997518
+(Agent) self.epsilon rendu à 0.019262828096847578
+(Agent) self.epsilon rendu à 0.018781257394426387
+(Agent) self.epsilon rendu à 0.018311725959565726
+(Agent) self.epsilon rendu à 0.017853932810576584
+Épisode 486/10000: R=3.0, Steps=1321
+(Agent) self.epsilon rendu à 0.01740758449031217
+(Agent) self.epsilon rendu à 0.016972394878054364
+Épisode 489/10000: R=1.0, Steps=980
+(Agent) self.epsilon rendu à 0.016548085006103004
+Épisode 490/10000: R=2.0, Steps=592
+(Agent) self.epsilon rendu à 0.01613438288095043
+Épisode 492/10000: R=1.0, Steps=625
+(Agent) self.epsilon rendu à 0.01573102330892667
+Épisode 493/10000: R=2.0, Steps=1116
+(Agent) self.epsilon rendu à 0.015337747726203502
+(Agent) self.epsilon rendu à 0.014954304033048415
+Épisode 497/10000: R=1.0, Steps=232
+(Agent) self.epsilon rendu à 0.014580446432222205
+Épisode 498/10000: R=3.0, Steps=866
+(Agent) self.epsilon rendu à 0.014215935271416649
+Épisode 500/10000: R=1.0, Steps=914
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.013860536889631231
+(Agent) self.epsilon rendu à 0.01351402346739045
+(Agent) self.epsilon rendu à 0.013176172880705687
+(Agent) self.epsilon rendu à 0.012846768558688045
+(Agent) self.epsilon rendu à 0.012525599344720844
+(Agent) self.epsilon rendu à 0.012212459361102823
+Épisode 504/10000: R=1.0, Steps=895
+(Agent) self.epsilon rendu à 0.011907147877075253
+(Agent) self.epsilon rendu à 0.011609469180148371
+(Agent) self.epsilon rendu à 0.01131923245064466
+(Agent) self.epsilon rendu à 0.011036251639378544
+Épisode 508/10000: R=1.0, Steps=215
+(Agent) self.epsilon rendu à 0.01076034534839408
+Épisode 509/10000: R=1.0, Steps=1353
+(Agent) self.epsilon rendu à 0.010491336714684227
+Épisode 511/10000: R=2.0, Steps=549
+(Agent) self.epsilon rendu à 0.010229053296817121
+Épisode 512/10000: R=3.0, Steps=1357
+(Agent) self.epsilon rendu à 0.01
+Épisode 513/10000: R=3.0, Steps=1089
+Épisode 514/10000: R=1.0, Steps=1309
+Épisode 515/10000: R=4.0, Steps=1448
+Épisode 517/10000: R=2.0, Steps=1936
+Épisode 518/10000: R=4.0, Steps=1141
+Épisode 519/10000: R=2.0, Steps=458
+Épisode 520/10000: R=6.0, Steps=2375
+Épisode 521/10000: R=5.0, Steps=820
+Épisode 522/10000: R=4.0, Steps=2533
+Épisode 523/10000: R=5.0, Steps=1323
+(Agent) Mise à jour du fichier modèle
+Épisode 527/10000: R=1.0, Steps=1526
+Épisode 528/10000: R=1.0, Steps=1144
+Épisode 529/10000: R=1.0, Steps=1309
+Épisode 530/10000: R=1.0, Steps=728
+Épisode 538/10000: R=3.0, Steps=1239
+Épisode 542/10000: R=3.0, Steps=599
+Épisode 543/10000: R=2.0, Steps=2019
+Épisode 544/10000: R=3.0, Steps=2015
+Épisode 545/10000: R=4.0, Steps=1861
+Épisode 546/10000: R=2.0, Steps=888
+Épisode 548/10000: R=5.0, Steps=1621
+Épisode 549/10000: R=2.0, Steps=326
+Épisode 550/10000: R=3.0, Steps=1159
+(Agent) Mise à jour du fichier modèle
+Épisode 551/10000: R=1.0, Steps=937
+Épisode 552/10000: R=2.0, Steps=661
+Épisode 553/10000: R=5.0, Steps=2283
+Épisode 554/10000: R=2.0, Steps=2352
+Épisode 555/10000: R=1.0, Steps=1277
+Épisode 556/10000: R=2.0, Steps=2429
+Épisode 558/10000: R=1.0, Steps=1032
+Épisode 559/10000: R=2.0, Steps=1839
+Épisode 560/10000: R=4.0, Steps=1608
+Épisode 564/10000: R=1.0, Steps=5059
+Épisode 565/10000: R=2.0, Steps=484
+Épisode 566/10000: R=1.0, Steps=1948
+Épisode 567/10000: R=2.0, Steps=1752
+Épisode 570/10000: R=1.0, Steps=685
+Épisode 572/10000: R=2.0, Steps=956
+Épisode 573/10000: R=4.0, Steps=2430
+Épisode 574/10000: R=1.0, Steps=1684
+Épisode 575/10000: R=3.0, Steps=456
+(Agent) Mise à jour du fichier modèle
+Épisode 576/10000: R=1.0, Steps=1127
+Épisode 578/10000: R=4.0, Steps=1337
+Épisode 580/10000: R=2.0, Steps=923
+Épisode 581/10000: R=5.0, Steps=1520
+Épisode 585/10000: R=2.0, Steps=2202
+Épisode 586/10000: R=2.0, Steps=994
+Épisode 588/10000: R=4.0, Steps=1341
+Épisode 589/10000: R=1.0, Steps=974
+Épisode 591/10000: R=1.0, Steps=1103
+Épisode 592/10000: R=1.0, Steps=2425
+Épisode 593/10000: R=3.0, Steps=770
+Épisode 594/10000: R=1.0, Steps=1818
+Épisode 595/10000: R=1.0, Steps=1245
+Épisode 596/10000: R=3.0, Steps=2163
+Épisode 597/10000: R=2.0, Steps=292
+Épisode 598/10000: R=1.0, Steps=1801
+Épisode 599/10000: R=1.0, Steps=1154
+Épisode 600/10000: R=1.0, Steps=1453
+(Agent) Mise à jour du fichier modèle
+Épisode 601/10000: R=2.0, Steps=1348
+Épisode 602/10000: R=3.0, Steps=2053
+Épisode 603/10000: R=2.0, Steps=682
+Épisode 604/10000: R=3.0, Steps=951
+Épisode 606/10000: R=1.0, Steps=765
+Épisode 609/10000: R=1.0, Steps=501
+Épisode 616/10000: R=2.0, Steps=810
+Épisode 617/10000: R=1.0, Steps=2629
+Épisode 619/10000: R=1.0, Steps=3037
+Épisode 621/10000: R=1.0, Steps=420
+Épisode 622/10000: R=1.0, Steps=219
+Épisode 624/10000: R=3.0, Steps=860
+Épisode 625/10000: R=1.0, Steps=2253
+(Agent) Mise à jour du fichier modèle
+Épisode 626/10000: R=4.0, Steps=1765
+Épisode 627/10000: R=3.0, Steps=770
+Épisode 629/10000: R=2.0, Steps=760
+Épisode 630/10000: R=3.0, Steps=551
+Épisode 631/10000: R=2.0, Steps=832
+Épisode 632/10000: R=1.0, Steps=1533
+Épisode 634/10000: R=1.0, Steps=2086
+Épisode 636/10000: R=4.0, Steps=3969
+Épisode 638/10000: R=2.0, Steps=2247
+Épisode 643/10000: R=2.0, Steps=719
+Épisode 644/10000: R=1.0, Steps=1410
+Épisode 646/10000: R=3.0, Steps=1645
+Épisode 647/10000: R=2.0, Steps=1924
+Épisode 648/10000: R=2.0, Steps=1127
+Épisode 649/10000: R=2.0, Steps=1353
+Épisode 650/10000: R=1.0, Steps=610
+(Agent) Mise à jour du fichier modèle
+Épisode 651/10000: R=1.0, Steps=1501
+Épisode 652/10000: R=3.0, Steps=1945
+Épisode 653/10000: R=2.0, Steps=1329
+Épisode 654/10000: R=1.0, Steps=2383
+Épisode 655/10000: R=11.0, Steps=941
+	Nouveau meilleur score à date (pour une vie): 11.0, épisode #655
+Épisode 656/10000: R=2.0, Steps=1323
+Épisode 657/10000: R=2.0, Steps=593
+Épisode 658/10000: R=2.0, Steps=1236
+Épisode 659/10000: R=1.0, Steps=1155
+Épisode 660/10000: R=3.0, Steps=2502
+Épisode 661/10000: R=2.0, Steps=977
+Épisode 662/10000: R=2.0, Steps=1591
+Épisode 663/10000: R=1.0, Steps=1050
+Épisode 664/10000: R=3.0, Steps=2296
+Épisode 665/10000: R=1.0, Steps=615
+Épisode 666/10000: R=1.0, Steps=1132
+Épisode 667/10000: R=2.0, Steps=1950
+Épisode 668/10000: R=1.0, Steps=543
+Épisode 669/10000: R=2.0, Steps=1469
+Épisode 670/10000: R=3.0, Steps=2792
+Épisode 671/10000: R=2.0, Steps=1058
+Épisode 672/10000: R=2.0, Steps=1287
+Épisode 673/10000: R=3.0, Steps=1768
+Épisode 674/10000: R=1.0, Steps=2479
+Épisode 675/10000: R=1.0, Steps=848
+(Agent) Mise à jour du fichier modèle
+Épisode 676/10000: R=1.0, Steps=210
+Épisode 677/10000: R=2.0, Steps=428
+Épisode 678/10000: R=2.0, Steps=875
+Épisode 679/10000: R=2.0, Steps=2663
+Épisode 681/10000: R=3.0, Steps=397
+Épisode 683/10000: R=3.0, Steps=1062
+Épisode 685/10000: R=1.0, Steps=269
+Épisode 686/10000: R=3.0, Steps=1563
+Épisode 687/10000: R=3.0, Steps=728
+Épisode 688/10000: R=3.0, Steps=279
+Épisode 689/10000: R=2.0, Steps=1399
+Épisode 690/10000: R=4.0, Steps=1806
+Épisode 691/10000: R=4.0, Steps=813
+Épisode 692/10000: R=2.0, Steps=5209
+Épisode 693/10000: R=3.0, Steps=905
+Épisode 694/10000: R=3.0, Steps=282
+Épisode 695/10000: R=3.0, Steps=1963
+Épisode 696/10000: R=3.0, Steps=2132
+Épisode 697/10000: R=2.0, Steps=999
+Épisode 698/10000: R=5.0, Steps=2337
+Épisode 699/10000: R=2.0, Steps=2453
+(Agent) Mise à jour du fichier modèle
+Épisode 701/10000: R=1.0, Steps=1640
+Épisode 702/10000: R=1.0, Steps=3174
+Épisode 703/10000: R=4.0, Steps=820
+Épisode 704/10000: R=1.0, Steps=1840
+Épisode 705/10000: R=1.0, Steps=530
+Épisode 706/10000: R=3.0, Steps=2160
+Épisode 707/10000: R=2.0, Steps=1192
+Épisode 708/10000: R=2.0, Steps=1816
+Épisode 709/10000: R=1.0, Steps=484
+Épisode 710/10000: R=4.0, Steps=405
+Épisode 711/10000: R=3.0, Steps=868
+Épisode 712/10000: R=1.0, Steps=849
+Épisode 713/10000: R=3.0, Steps=2946
+Épisode 714/10000: R=2.0, Steps=714
+Épisode 715/10000: R=3.0, Steps=846
+Épisode 717/10000: R=3.0, Steps=1607
+Épisode 718/10000: R=1.0, Steps=2002
+Épisode 719/10000: R=1.0, Steps=754
+Épisode 720/10000: R=1.0, Steps=2452
+Épisode 724/10000: R=1.0, Steps=2263
+Épisode 725/10000: R=1.0, Steps=2055
+(Agent) Mise à jour du fichier modèle
+Épisode 727/10000: R=3.0, Steps=935
+Épisode 729/10000: R=1.0, Steps=1330
+Épisode 730/10000: R=1.0, Steps=1558
+Épisode 731/10000: R=1.0, Steps=1346
+Épisode 733/10000: R=1.0, Steps=455
+Épisode 734/10000: R=1.0, Steps=425
+Épisode 736/10000: R=1.0, Steps=1763
+Épisode 741/10000: R=1.0, Steps=3609
+Épisode 747/10000: R=1.0, Steps=1096
+Épisode 750/10000: R=2.0, Steps=588
+(Agent) Mise à jour du fichier modèle
+Épisode 760/10000: R=4.0, Steps=893
+Épisode 761/10000: R=2.0, Steps=2104
+Épisode 762/10000: R=1.0, Steps=461
+Épisode 763/10000: R=1.0, Steps=2602
+Épisode 767/10000: R=1.0, Steps=1197
+Épisode 769/10000: R=1.0, Steps=2300
+Épisode 770/10000: R=1.0, Steps=3618
+Épisode 771/10000: R=3.0, Steps=1336
+Épisode 772/10000: R=2.0, Steps=2128
+Épisode 774/10000: R=2.0, Steps=1033
+Épisode 775/10000: R=6.0, Steps=2427
+(Agent) Mise à jour du fichier modèle
+Épisode 776/10000: R=3.0, Steps=1278
+Épisode 777/10000: R=3.0, Steps=932
+Épisode 778/10000: R=3.0, Steps=1281
+Épisode 779/10000: R=3.0, Steps=1790
+Épisode 780/10000: R=3.0, Steps=3484
+Épisode 783/10000: R=4.0, Steps=1823
+Épisode 784/10000: R=2.0, Steps=1484
+Épisode 785/10000: R=2.0, Steps=1338
+Épisode 786/10000: R=3.0, Steps=2669
+Épisode 787/10000: R=3.0, Steps=1882
+Épisode 789/10000: R=4.0, Steps=1040
+Épisode 790/10000: R=2.0, Steps=1535
+Épisode 791/10000: R=3.0, Steps=2564
+Épisode 792/10000: R=1.0, Steps=1280
+Épisode 793/10000: R=1.0, Steps=387
+Épisode 795/10000: R=1.0, Steps=1045
+Épisode 796/10000: R=4.0, Steps=2738
+Épisode 797/10000: R=2.0, Steps=442
+Épisode 798/10000: R=2.0, Steps=2521
+Épisode 799/10000: R=4.0, Steps=3458
+Épisode 800/10000: R=3.0, Steps=2577
+(Agent) Mise à jour du fichier modèle
+Épisode 801/10000: R=1.0, Steps=1054
+Épisode 804/10000: R=1.0, Steps=2991
+Épisode 806/10000: R=4.0, Steps=1556
+Épisode 807/10000: R=2.0, Steps=1742
+Épisode 809/10000: R=1.0, Steps=2476
+Épisode 810/10000: R=2.0, Steps=2553
+Épisode 812/10000: R=2.0, Steps=2411
+Épisode 813/10000: R=1.0, Steps=987
+Épisode 814/10000: R=1.0, Steps=785
+Épisode 815/10000: R=2.0, Steps=1344
+Épisode 816/10000: R=2.0, Steps=1446
+Épisode 817/10000: R=2.0, Steps=758
+Épisode 818/10000: R=2.0, Steps=2275
+Épisode 819/10000: R=1.0, Steps=1926
+Épisode 820/10000: R=1.0, Steps=1848
+Épisode 821/10000: R=3.0, Steps=2552
+Épisode 822/10000: R=2.0, Steps=2468
+Épisode 823/10000: R=2.0, Steps=1045
+Épisode 824/10000: R=4.0, Steps=1707
+Épisode 825/10000: R=3.0, Steps=1878
+(Agent) Mise à jour du fichier modèle
+Épisode 826/10000: R=1.0, Steps=1263
+Épisode 827/10000: R=2.0, Steps=519
+Épisode 828/10000: R=3.0, Steps=2023
+Épisode 829/10000: R=3.0, Steps=3647
+Épisode 830/10000: R=2.0, Steps=1168
+Épisode 831/10000: R=1.0, Steps=824
+Épisode 832/10000: R=4.0, Steps=3901
+Épisode 833/10000: R=2.0, Steps=2318
+Épisode 835/10000: R=2.0, Steps=3037
+Épisode 836/10000: R=1.0, Steps=2168
+Épisode 837/10000: R=1.0, Steps=2295
+Épisode 838/10000: R=2.0, Steps=2554
+Épisode 839/10000: R=2.0, Steps=976
+Épisode 841/10000: R=2.0, Steps=4010
+Épisode 842/10000: R=1.0, Steps=3527
+Épisode 843/10000: R=3.0, Steps=2700
+Épisode 844/10000: R=1.0, Steps=2821
+Épisode 847/10000: R=1.0, Steps=2986
+Épisode 848/10000: R=1.0, Steps=1779
+Épisode 849/10000: R=1.0, Steps=765
+Épisode 850/10000: R=3.0, Steps=1897
+(Agent) Mise à jour du fichier modèle
+Épisode 851/10000: R=1.0, Steps=2053
+Épisode 853/10000: R=5.0, Steps=908
+Épisode 855/10000: R=2.0, Steps=1226
+Épisode 856/10000: R=1.0, Steps=1365
+Épisode 857/10000: R=1.0, Steps=1316
+Épisode 858/10000: R=1.0, Steps=3827
+Épisode 860/10000: R=1.0, Steps=2736
+Épisode 861/10000: R=1.0, Steps=1010
+Épisode 862/10000: R=1.0, Steps=2208
+Épisode 863/10000: R=1.0, Steps=3623
+Épisode 864/10000: R=2.0, Steps=1174
+Épisode 866/10000: R=2.0, Steps=1282
+Épisode 867/10000: R=1.0, Steps=1848
+Épisode 868/10000: R=2.0, Steps=2645
+Épisode 871/10000: R=1.0, Steps=2484
+Épisode 872/10000: R=1.0, Steps=816
+Épisode 874/10000: R=3.0, Steps=2607
+Épisode 875/10000: R=4.0, Steps=1273
+(Agent) Mise à jour du fichier modèle
+Épisode 876/10000: R=1.0, Steps=1118
+Épisode 878/10000: R=1.0, Steps=2360
+Épisode 879/10000: R=1.0, Steps=1933
+Épisode 880/10000: R=3.0, Steps=1095
+Épisode 881/10000: R=2.0, Steps=735
+Épisode 882/10000: R=2.0, Steps=1872
+Épisode 883/10000: R=2.0, Steps=1952
+Épisode 884/10000: R=3.0, Steps=1130
+Épisode 885/10000: R=1.0, Steps=2546
+Épisode 886/10000: R=1.0, Steps=744
+Épisode 887/10000: R=3.0, Steps=1034
+Épisode 888/10000: R=2.0, Steps=2470
+Épisode 889/10000: R=2.0, Steps=2672
+Épisode 891/10000: R=1.0, Steps=2780
+Épisode 893/10000: R=1.0, Steps=899
+Épisode 894/10000: R=2.0, Steps=2162
+Épisode 895/10000: R=2.0, Steps=1418
+Épisode 896/10000: R=2.0, Steps=1249
+Épisode 897/10000: R=2.0, Steps=2184
+Épisode 898/10000: R=1.0, Steps=1232
+Épisode 899/10000: R=2.0, Steps=3702
+Épisode 900/10000: R=1.0, Steps=1689
+(Agent) Mise à jour du fichier modèle
+Épisode 901/10000: R=2.0, Steps=2320
+Épisode 902/10000: R=1.0, Steps=1597
+Épisode 904/10000: R=1.0, Steps=2478
+Épisode 905/10000: R=3.0, Steps=1999
+Épisode 906/10000: R=1.0, Steps=1255
+Épisode 907/10000: R=2.0, Steps=2411
+Épisode 908/10000: R=1.0, Steps=2137
+Épisode 910/10000: R=1.0, Steps=1251
+Épisode 911/10000: R=2.0, Steps=1184
+Épisode 922/10000: R=2.0, Steps=3762
+Épisode 925/10000: R=1.0, Steps=2037
+(Agent) Mise à jour du fichier modèle
+Épisode 929/10000: R=2.0, Steps=1143
+Épisode 931/10000: R=1.0, Steps=1354
+Épisode 933/10000: R=1.0, Steps=748
+Épisode 934/10000: R=1.0, Steps=1155
+Épisode 936/10000: R=3.0, Steps=3256
+Épisode 939/10000: R=1.0, Steps=1870
+Épisode 940/10000: R=3.0, Steps=1969
+Épisode 942/10000: R=1.0, Steps=1771
+Épisode 944/10000: R=3.0, Steps=1690
+Épisode 946/10000: R=3.0, Steps=3855
+Épisode 947/10000: R=3.0, Steps=2376
+Épisode 950/10000: R=1.0, Steps=2365
+(Agent) Mise à jour du fichier modèle
+Épisode 951/10000: R=1.0, Steps=1265
+Épisode 952/10000: R=1.0, Steps=1995
+Épisode 953/10000: R=1.0, Steps=1651
+Épisode 954/10000: R=1.0, Steps=1364
+Épisode 955/10000: R=1.0, Steps=1568
+Épisode 956/10000: R=1.0, Steps=1110
+Épisode 957/10000: R=1.0, Steps=2558
+Épisode 959/10000: R=1.0, Steps=945
+Épisode 960/10000: R=1.0, Steps=2248
+Épisode 961/10000: R=1.0, Steps=2091
+Épisode 964/10000: R=1.0, Steps=811
+Épisode 969/10000: R=1.0, Steps=3240
+Épisode 974/10000: R=2.0, Steps=3166
+(Agent) Mise à jour du fichier modèle
+Épisode 977/10000: R=3.0, Steps=2066
+Épisode 979/10000: R=1.0, Steps=1540
+Épisode 985/10000: R=1.0, Steps=851
+Épisode 990/10000: R=1.0, Steps=2268
+Épisode 991/10000: R=2.0, Steps=1012
+Épisode 993/10000: R=1.0, Steps=1746
+Épisode 998/10000: R=1.0, Steps=1156
+(Agent) Mise à jour du fichier modèle
+Épisode 1001/10000: R=2.0, Steps=1317
+Épisode 1002/10000: R=3.0, Steps=1430
+Épisode 1004/10000: R=1.0, Steps=1859
+Épisode 1007/10000: R=2.0, Steps=1968
+Épisode 1009/10000: R=1.0, Steps=799
+Épisode 1010/10000: R=2.0, Steps=1984
+Épisode 1011/10000: R=2.0, Steps=912
+Épisode 1012/10000: R=1.0, Steps=1659
+Épisode 1020/10000: R=1.0, Steps=959
+Épisode 1024/10000: R=1.0, Steps=2175
+(Agent) Mise à jour du fichier modèle
+Épisode 1026/10000: R=2.0, Steps=1179
+Épisode 1027/10000: R=1.0, Steps=2227
+Épisode 1028/10000: R=2.0, Steps=1136
+Épisode 1029/10000: R=1.0, Steps=3469
+Épisode 1030/10000: R=1.0, Steps=1221
+Épisode 1031/10000: R=2.0, Steps=3703
+Épisode 1032/10000: R=2.0, Steps=1716
+Épisode 1033/10000: R=1.0, Steps=3407
+Épisode 1034/10000: R=1.0, Steps=3464
+Épisode 1035/10000: R=1.0, Steps=683
+Épisode 1036/10000: R=5.0, Steps=1501
+Épisode 1037/10000: R=2.0, Steps=1838
+Épisode 1039/10000: R=3.0, Steps=1255
+Épisode 1040/10000: R=2.0, Steps=1303
+Épisode 1041/10000: R=1.0, Steps=1241
+Épisode 1042/10000: R=3.0, Steps=1246
+Épisode 1043/10000: R=2.0, Steps=967
+Épisode 1044/10000: R=1.0, Steps=2281
+Épisode 1045/10000: R=1.0, Steps=1111
+Épisode 1046/10000: R=4.0, Steps=1294
+Épisode 1047/10000: R=2.0, Steps=899
+Épisode 1048/10000: R=1.0, Steps=2131
+Épisode 1049/10000: R=2.0, Steps=1246
+Épisode 1050/10000: R=3.0, Steps=2511
+(Agent) Mise à jour du fichier modèle
+Épisode 1051/10000: R=1.0, Steps=671
+Épisode 1053/10000: R=4.0, Steps=2617
+Épisode 1055/10000: R=1.0, Steps=2450
+Épisode 1056/10000: R=2.0, Steps=2731
+Épisode 1057/10000: R=3.0, Steps=4174
+Épisode 1058/10000: R=3.0, Steps=1318
+Épisode 1059/10000: R=3.0, Steps=1369
+Épisode 1060/10000: R=1.0, Steps=1092
+Épisode 1062/10000: R=1.0, Steps=1737
+Épisode 1063/10000: R=1.0, Steps=1341
+Épisode 1064/10000: R=1.0, Steps=1903
+Épisode 1065/10000: R=1.0, Steps=2515
+Épisode 1066/10000: R=3.0, Steps=1410
+Épisode 1067/10000: R=2.0, Steps=2804
+Épisode 1068/10000: R=3.0, Steps=1108
+Épisode 1072/10000: R=2.0, Steps=1094
+Épisode 1073/10000: R=1.0, Steps=639
+Épisode 1074/10000: R=1.0, Steps=1132
+Épisode 1075/10000: R=3.0, Steps=778
+(Agent) Mise à jour du fichier modèle
+Épisode 1076/10000: R=2.0, Steps=613
+Épisode 1077/10000: R=2.0, Steps=1817
+Épisode 1078/10000: R=2.0, Steps=1770
+Épisode 1079/10000: R=2.0, Steps=1940
+Épisode 1080/10000: R=2.0, Steps=1675
+Épisode 1081/10000: R=2.0, Steps=2166
+Épisode 1091/10000: R=3.0, Steps=1829
+Épisode 1092/10000: R=1.0, Steps=1989
+Épisode 1095/10000: R=1.0, Steps=1503
+Épisode 1096/10000: R=1.0, Steps=3099
+Épisode 1098/10000: R=2.0, Steps=2755
+Épisode 1099/10000: R=1.0, Steps=1418
+Épisode 1100/10000: R=1.0, Steps=1824
+(Agent) Mise à jour du fichier modèle
+Épisode 1101/10000: R=3.0, Steps=3285
+Épisode 1102/10000: R=4.0, Steps=3495
+Épisode 1105/10000: R=1.0, Steps=1722
+Épisode 1108/10000: R=1.0, Steps=2145
+Épisode 1109/10000: R=2.0, Steps=3487
+Épisode 1110/10000: R=4.0, Steps=2093
+Épisode 1112/10000: R=2.0, Steps=3924
+Épisode 1113/10000: R=1.0, Steps=837
+Épisode 1114/10000: R=1.0, Steps=3237
+Épisode 1115/10000: R=2.0, Steps=2482
+Épisode 1116/10000: R=1.0, Steps=1480
+Épisode 1117/10000: R=1.0, Steps=1202
+Épisode 1118/10000: R=2.0, Steps=2635
+Épisode 1119/10000: R=1.0, Steps=799
+Épisode 1120/10000: R=5.0, Steps=1121
+Épisode 1121/10000: R=1.0, Steps=1036
+Épisode 1123/10000: R=2.0, Steps=2348
+Épisode 1124/10000: R=2.0, Steps=1397
+(Agent) Mise à jour du fichier modèle
+Épisode 1126/10000: R=3.0, Steps=2879
+Épisode 1127/10000: R=2.0, Steps=934
+Épisode 1128/10000: R=2.0, Steps=1570
+Épisode 1130/10000: R=1.0, Steps=765
+Épisode 1131/10000: R=1.0, Steps=1878
+Épisode 1132/10000: R=1.0, Steps=536
+Épisode 1133/10000: R=1.0, Steps=1378
+Épisode 1134/10000: R=2.0, Steps=2219
+Épisode 1136/10000: R=2.0, Steps=1677
+Épisode 1137/10000: R=1.0, Steps=2188
+Épisode 1139/10000: R=4.0, Steps=3079
+Épisode 1140/10000: R=1.0, Steps=1568
+Épisode 1141/10000: R=1.0, Steps=2436
+Épisode 1144/10000: R=4.0, Steps=1302
+Épisode 1148/10000: R=3.0, Steps=1622
+(Agent) Mise à jour du fichier modèle
+Épisode 1151/10000: R=1.0, Steps=2531
+Épisode 1160/10000: R=1.0, Steps=2759
+Épisode 1163/10000: R=1.0, Steps=3566
+Épisode 1164/10000: R=1.0, Steps=1206
+Épisode 1165/10000: R=3.0, Steps=3955
+Épisode 1166/10000: R=1.0, Steps=1109
+Épisode 1167/10000: R=1.0, Steps=3482
+Épisode 1171/10000: R=1.0, Steps=2337
+Épisode 1174/10000: R=1.0, Steps=2300
+(Agent) Mise à jour du fichier modèle
+Épisode 1176/10000: R=1.0, Steps=1810
+Épisode 1179/10000: R=1.0, Steps=1625
+Épisode 1181/10000: R=1.0, Steps=804
+Épisode 1183/10000: R=1.0, Steps=3218
+Épisode 1184/10000: R=1.0, Steps=1003
+Épisode 1186/10000: R=1.0, Steps=1635
+Épisode 1188/10000: R=1.0, Steps=1373
+Épisode 1189/10000: R=1.0, Steps=1217
+Épisode 1191/10000: R=2.0, Steps=2556
+Épisode 1193/10000: R=1.0, Steps=625
+Épisode 1194/10000: R=1.0, Steps=1124
+Épisode 1195/10000: R=1.0, Steps=1060
+Épisode 1196/10000: R=1.0, Steps=2112
+Épisode 1199/10000: R=1.0, Steps=2183
+(Agent) Mise à jour du fichier modèle
+Épisode 1202/10000: R=1.0, Steps=2918
+Épisode 1203/10000: R=1.0, Steps=1125
+Épisode 1204/10000: R=1.0, Steps=1874
+Épisode 1205/10000: R=1.0, Steps=1426
+Épisode 1206/10000: R=2.0, Steps=2532
+Épisode 1207/10000: R=1.0, Steps=1520
+Épisode 1208/10000: R=1.0, Steps=298
+Épisode 1210/10000: R=4.0, Steps=2754
+Épisode 1211/10000: R=3.0, Steps=1569
+Épisode 1213/10000: R=2.0, Steps=899
+Épisode 1214/10000: R=1.0, Steps=3040
+Épisode 1215/10000: R=2.0, Steps=2522
+Épisode 1216/10000: R=5.0, Steps=931
+Épisode 1217/10000: R=4.0, Steps=654
+Épisode 1218/10000: R=2.0, Steps=1119
+Épisode 1219/10000: R=1.0, Steps=1535
+Épisode 1220/10000: R=1.0, Steps=2283
+Épisode 1221/10000: R=2.0, Steps=949
+Épisode 1222/10000: R=3.0, Steps=1136
+Épisode 1223/10000: R=2.0, Steps=517
+Épisode 1224/10000: R=3.0, Steps=2030
+Épisode 1225/10000: R=3.0, Steps=1501
+(Agent) Mise à jour du fichier modèle
+Épisode 1226/10000: R=1.0, Steps=669
+Épisode 1227/10000: R=1.0, Steps=2014
+Épisode 1228/10000: R=1.0, Steps=1616
+Épisode 1229/10000: R=2.0, Steps=1633
+Épisode 1231/10000: R=7.0, Steps=1053
+Épisode 1232/10000: R=2.0, Steps=651
+Épisode 1233/10000: R=3.0, Steps=1014
+Épisode 1234/10000: R=2.0, Steps=1999
+Épisode 1235/10000: R=1.0, Steps=1590
+Épisode 1236/10000: R=3.0, Steps=988
+Épisode 1237/10000: R=1.0, Steps=1313
+Épisode 1238/10000: R=1.0, Steps=1536
+Épisode 1239/10000: R=3.0, Steps=3841
+Épisode 1240/10000: R=3.0, Steps=1023
+Épisode 1241/10000: R=1.0, Steps=913
+Épisode 1242/10000: R=2.0, Steps=2758
+Épisode 1244/10000: R=4.0, Steps=2342
+Épisode 1245/10000: R=4.0, Steps=991
+Épisode 1246/10000: R=2.0, Steps=912
+Épisode 1248/10000: R=2.0, Steps=1569
+Épisode 1249/10000: R=1.0, Steps=1627
+(Agent) Mise à jour du fichier modèle
+Épisode 1251/10000: R=1.0, Steps=1176
+Épisode 1253/10000: R=2.0, Steps=2229
+Épisode 1254/10000: R=2.0, Steps=2292
+Épisode 1255/10000: R=1.0, Steps=320
+Épisode 1256/10000: R=1.0, Steps=4114
+Épisode 1258/10000: R=2.0, Steps=965
+Épisode 1259/10000: R=2.0, Steps=1412
+Épisode 1260/10000: R=1.0, Steps=1241
+Épisode 1261/10000: R=2.0, Steps=3202
+Épisode 1263/10000: R=2.0, Steps=2398
+Épisode 1264/10000: R=1.0, Steps=2367
+Épisode 1266/10000: R=1.0, Steps=646
+Épisode 1267/10000: R=2.0, Steps=2175
+Épisode 1268/10000: R=1.0, Steps=1597
+Épisode 1269/10000: R=2.0, Steps=1225
+Épisode 1270/10000: R=2.0, Steps=1703
+Épisode 1271/10000: R=2.0, Steps=2989
+Épisode 1272/10000: R=2.0, Steps=1259
+Épisode 1273/10000: R=4.0, Steps=2907
+Épisode 1274/10000: R=2.0, Steps=2006
+Épisode 1275/10000: R=1.0, Steps=1195
+(Agent) Mise à jour du fichier modèle
+Épisode 1276/10000: R=1.0, Steps=1228
+Épisode 1277/10000: R=2.0, Steps=754
+Épisode 1279/10000: R=1.0, Steps=1421
+Épisode 1280/10000: R=1.0, Steps=1655
+Épisode 1281/10000: R=1.0, Steps=664
+Épisode 1282/10000: R=2.0, Steps=2221
+Épisode 1283/10000: R=2.0, Steps=2542
+Épisode 1284/10000: R=1.0, Steps=1278
+Épisode 1286/10000: R=1.0, Steps=4015
+Épisode 1287/10000: R=3.0, Steps=2460
+Épisode 1288/10000: R=1.0, Steps=475
+Épisode 1289/10000: R=3.0, Steps=1541
+Épisode 1290/10000: R=1.0, Steps=902
+Épisode 1291/10000: R=1.0, Steps=1287
+Épisode 1292/10000: R=3.0, Steps=971
+Épisode 1294/10000: R=1.0, Steps=2232
+Épisode 1295/10000: R=2.0, Steps=1212
+Épisode 1296/10000: R=1.0, Steps=2650
+Épisode 1297/10000: R=2.0, Steps=885
+Épisode 1298/10000: R=2.0, Steps=908
+Épisode 1299/10000: R=1.0, Steps=654
+(Agent) Mise à jour du fichier modèle
+Épisode 1301/10000: R=2.0, Steps=1374
+Épisode 1302/10000: R=2.0, Steps=867
+Épisode 1303/10000: R=2.0, Steps=1484
+Épisode 1304/10000: R=2.0, Steps=1342
+Épisode 1305/10000: R=2.0, Steps=2533
+Épisode 1306/10000: R=1.0, Steps=1716
+Épisode 1307/10000: R=3.0, Steps=2571
+Épisode 1308/10000: R=2.0, Steps=3497
+Épisode 1309/10000: R=2.0, Steps=1950
+Épisode 1310/10000: R=1.0, Steps=855
+Épisode 1311/10000: R=2.0, Steps=3603
+Épisode 1312/10000: R=2.0, Steps=1873
+Épisode 1313/10000: R=1.0, Steps=422
+Épisode 1314/10000: R=3.0, Steps=1372
+Épisode 1315/10000: R=2.0, Steps=2354
+Épisode 1317/10000: R=2.0, Steps=2673
+Épisode 1319/10000: R=2.0, Steps=2873
+Épisode 1320/10000: R=1.0, Steps=1461
+Épisode 1321/10000: R=1.0, Steps=1855
+Épisode 1322/10000: R=1.0, Steps=1367
+Épisode 1323/10000: R=2.0, Steps=2520
+Épisode 1324/10000: R=1.0, Steps=3726
+Épisode 1325/10000: R=1.0, Steps=1233
+(Agent) Mise à jour du fichier modèle
+Épisode 1326/10000: R=3.0, Steps=2616
+Épisode 1328/10000: R=1.0, Steps=2034
+Épisode 1329/10000: R=2.0, Steps=1427
+Épisode 1330/10000: R=4.0, Steps=2311
+Épisode 1331/10000: R=2.0, Steps=1510
+Épisode 1332/10000: R=2.0, Steps=3746
+Épisode 1334/10000: R=3.0, Steps=3217
+Épisode 1336/10000: R=1.0, Steps=1772
+Épisode 1337/10000: R=2.0, Steps=3742
+Épisode 1338/10000: R=2.0, Steps=2714
+Épisode 1339/10000: R=2.0, Steps=2138
+Épisode 1340/10000: R=1.0, Steps=1741
+Épisode 1341/10000: R=4.0, Steps=3175
+Épisode 1342/10000: R=2.0, Steps=4008
+Épisode 1343/10000: R=2.0, Steps=1304
+Épisode 1345/10000: R=1.0, Steps=1744
+Épisode 1346/10000: R=2.0, Steps=2687
+Épisode 1347/10000: R=2.0, Steps=2719
+Épisode 1348/10000: R=3.0, Steps=2302
+Épisode 1349/10000: R=3.0, Steps=4056
+Épisode 1350/10000: R=2.0, Steps=790
+(Agent) Mise à jour du fichier modèle
+Épisode 1351/10000: R=3.0, Steps=4047
+Épisode 1352/10000: R=1.0, Steps=1749
+Épisode 1353/10000: R=2.0, Steps=1634
+Épisode 1354/10000: R=2.0, Steps=2772
+Épisode 1355/10000: R=1.0, Steps=2547
+Épisode 1356/10000: R=1.0, Steps=1883
+Épisode 1358/10000: R=2.0, Steps=2675
+Épisode 1359/10000: R=1.0, Steps=1879
+Épisode 1360/10000: R=1.0, Steps=453
+Épisode 1361/10000: R=1.0, Steps=2933
+Épisode 1362/10000: R=1.0, Steps=2581
+Épisode 1363/10000: R=1.0, Steps=1687
+Épisode 1364/10000: R=1.0, Steps=1085
+Épisode 1365/10000: R=1.0, Steps=1671
+Épisode 1366/10000: R=2.0, Steps=747
+Épisode 1367/10000: R=2.0, Steps=628
+Épisode 1368/10000: R=2.0, Steps=1890
+Épisode 1369/10000: R=2.0, Steps=704
+Épisode 1370/10000: R=2.0, Steps=1509
+Épisode 1371/10000: R=2.0, Steps=1205
+Épisode 1372/10000: R=1.0, Steps=1537
+Épisode 1373/10000: R=2.0, Steps=1467
+Épisode 1374/10000: R=1.0, Steps=2274
+Épisode 1375/10000: R=1.0, Steps=1200
+(Agent) Mise à jour du fichier modèle
+Épisode 1376/10000: R=2.0, Steps=1462
+Épisode 1377/10000: R=2.0, Steps=852
+Épisode 1378/10000: R=1.0, Steps=472
+Épisode 1379/10000: R=1.0, Steps=2000
+Épisode 1380/10000: R=1.0, Steps=1609
+Épisode 1381/10000: R=1.0, Steps=2173
+Épisode 1382/10000: R=1.0, Steps=815
+Épisode 1383/10000: R=1.0, Steps=2405
+Épisode 1384/10000: R=2.0, Steps=1042
+Épisode 1385/10000: R=1.0, Steps=1951
+Épisode 1386/10000: R=1.0, Steps=1233
+Épisode 1387/10000: R=2.0, Steps=1326
+Épisode 1388/10000: R=1.0, Steps=2282
+Épisode 1389/10000: R=3.0, Steps=1662
+Épisode 1390/10000: R=2.0, Steps=1286
+Épisode 1391/10000: R=1.0, Steps=1994
+Épisode 1392/10000: R=1.0, Steps=2908
+Épisode 1393/10000: R=1.0, Steps=2561
+Épisode 1394/10000: R=1.0, Steps=982
+Épisode 1395/10000: R=3.0, Steps=988
+Épisode 1396/10000: R=1.0, Steps=2595
+Épisode 1397/10000: R=3.0, Steps=1277
+Épisode 1398/10000: R=1.0, Steps=978
+Épisode 1399/10000: R=2.0, Steps=2501
+Épisode 1400/10000: R=3.0, Steps=1250
+(Agent) Mise à jour du fichier modèle
+Épisode 1402/10000: R=1.0, Steps=1749
+Épisode 1403/10000: R=1.0, Steps=2920
+Épisode 1404/10000: R=4.0, Steps=2887
+Épisode 1405/10000: R=3.0, Steps=3449
+Épisode 1406/10000: R=3.0, Steps=4044
+Épisode 1407/10000: R=1.0, Steps=3054
+Épisode 1408/10000: R=3.0, Steps=2675
+Épisode 1409/10000: R=2.0, Steps=2377
+Épisode 1410/10000: R=1.0, Steps=1509
+Épisode 1411/10000: R=2.0, Steps=2374
+Épisode 1412/10000: R=2.0, Steps=1198
+Épisode 1413/10000: R=1.0, Steps=2101
+Épisode 1414/10000: R=3.0, Steps=2409
+Épisode 1415/10000: R=1.0, Steps=1161
+Épisode 1416/10000: R=4.0, Steps=1668
+Épisode 1417/10000: R=3.0, Steps=3133
+Épisode 1418/10000: R=4.0, Steps=3910
+Épisode 1420/10000: R=3.0, Steps=1621
+Épisode 1421/10000: R=4.0, Steps=2315
+Épisode 1422/10000: R=2.0, Steps=2104
+Épisode 1423/10000: R=1.0, Steps=1172
+Épisode 1424/10000: R=4.0, Steps=1724
+Épisode 1425/10000: R=2.0, Steps=1273
+(Agent) Mise à jour du fichier modèle
+Épisode 1426/10000: R=3.0, Steps=2589
+Épisode 1427/10000: R=2.0, Steps=2796
+Épisode 1428/10000: R=2.0, Steps=1953
+Épisode 1429/10000: R=4.0, Steps=1731
+Épisode 1430/10000: R=3.0, Steps=2733
+Épisode 1432/10000: R=3.0, Steps=566
+Épisode 1433/10000: R=2.0, Steps=1563
+Épisode 1434/10000: R=3.0, Steps=2351
+Épisode 1435/10000: R=1.0, Steps=1882
+Épisode 1436/10000: R=1.0, Steps=2890
+Épisode 1437/10000: R=1.0, Steps=1964
+Épisode 1438/10000: R=1.0, Steps=1395
+Épisode 1439/10000: R=2.0, Steps=3334
+Épisode 1440/10000: R=2.0, Steps=2237
+Épisode 1441/10000: R=3.0, Steps=1491
+Épisode 1442/10000: R=2.0, Steps=3493
+Épisode 1443/10000: R=1.0, Steps=1019
+Épisode 1444/10000: R=1.0, Steps=2096
+Épisode 1445/10000: R=1.0, Steps=1323
+Épisode 1446/10000: R=1.0, Steps=2546
+Épisode 1447/10000: R=2.0, Steps=1645
+Épisode 1448/10000: R=1.0, Steps=1402
+Épisode 1449/10000: R=3.0, Steps=1288
+(Agent) Mise à jour du fichier modèle
+Épisode 1451/10000: R=4.0, Steps=3008
+Épisode 1452/10000: R=1.0, Steps=1098
+Épisode 1453/10000: R=2.0, Steps=2849
+Épisode 1454/10000: R=2.0, Steps=4719
+Épisode 1459/10000: R=2.0, Steps=1637
+Épisode 1460/10000: R=2.0, Steps=1801
+Épisode 1461/10000: R=2.0, Steps=2334
+Épisode 1463/10000: R=2.0, Steps=2181
+Épisode 1464/10000: R=2.0, Steps=2996
+Épisode 1465/10000: R=3.0, Steps=1711
+Épisode 1466/10000: R=1.0, Steps=1582
+Épisode 1467/10000: R=1.0, Steps=2107
+Épisode 1468/10000: R=1.0, Steps=3550
+Épisode 1473/10000: R=1.0, Steps=1658
+Épisode 1474/10000: R=2.0, Steps=2624
+Épisode 1475/10000: R=1.0, Steps=1287
+(Agent) Mise à jour du fichier modèle
+Épisode 1476/10000: R=1.0, Steps=1404
+Épisode 1478/10000: R=1.0, Steps=1661
+Épisode 1479/10000: R=3.0, Steps=2049
+Épisode 1481/10000: R=1.0, Steps=1491
+Épisode 1482/10000: R=1.0, Steps=1682
+Épisode 1483/10000: R=2.0, Steps=618
+Épisode 1484/10000: R=1.0, Steps=2709
+Épisode 1486/10000: R=1.0, Steps=1386
+Épisode 1487/10000: R=1.0, Steps=2366
+Épisode 1495/10000: R=2.0, Steps=3020
+Épisode 1496/10000: R=1.0, Steps=1295
+Épisode 1497/10000: R=1.0, Steps=928
+Épisode 1500/10000: R=3.0, Steps=3069
+(Agent) Mise à jour du fichier modèle
+Épisode 1503/10000: R=1.0, Steps=2725
+Épisode 1504/10000: R=2.0, Steps=2283
+Épisode 1506/10000: R=4.0, Steps=1365
+Épisode 1507/10000: R=1.0, Steps=1900
+Épisode 1509/10000: R=2.0, Steps=1822
+Épisode 1510/10000: R=1.0, Steps=2034
+Épisode 1511/10000: R=3.0, Steps=1851
+Épisode 1513/10000: R=1.0, Steps=2839
+Épisode 1514/10000: R=2.0, Steps=1357
+Épisode 1515/10000: R=1.0, Steps=1283
+Épisode 1517/10000: R=2.0, Steps=2302
+Épisode 1518/10000: R=1.0, Steps=669
+Épisode 1519/10000: R=4.0, Steps=1536
+Épisode 1520/10000: R=3.0, Steps=630
+Épisode 1522/10000: R=2.0, Steps=1795
+Épisode 1524/10000: R=1.0, Steps=777
+(Agent) Mise à jour du fichier modèle
+Épisode 1527/10000: R=1.0, Steps=1475
+Épisode 1529/10000: R=1.0, Steps=1565
+Épisode 1530/10000: R=2.0, Steps=1112
+Épisode 1532/10000: R=1.0, Steps=4315
+Épisode 1533/10000: R=3.0, Steps=3609
+Épisode 1534/10000: R=1.0, Steps=1112
+Épisode 1535/10000: R=6.0, Steps=2220
+Épisode 1536/10000: R=1.0, Steps=1665
+Épisode 1537/10000: R=2.0, Steps=1322
+Épisode 1541/10000: R=1.0, Steps=1627
+Épisode 1542/10000: R=3.0, Steps=1043
+Épisode 1543/10000: R=2.0, Steps=3304
+Épisode 1544/10000: R=6.0, Steps=2865
+Épisode 1545/10000: R=1.0, Steps=2224
+Épisode 1547/10000: R=5.0, Steps=3332
+Épisode 1548/10000: R=2.0, Steps=1844
+Épisode 1549/10000: R=4.0, Steps=2382
+Épisode 1550/10000: R=2.0, Steps=1628
+(Agent) Mise à jour du fichier modèle
+Épisode 1551/10000: R=3.0, Steps=1928
+Épisode 1552/10000: R=2.0, Steps=3174
+Épisode 1553/10000: R=2.0, Steps=1661
+Épisode 1554/10000: R=4.0, Steps=1210
+Épisode 1556/10000: R=2.0, Steps=1654
+Épisode 1558/10000: R=1.0, Steps=2355
+Épisode 1560/10000: R=3.0, Steps=1280
+Épisode 1561/10000: R=3.0, Steps=3633
+Épisode 1562/10000: R=2.0, Steps=1125
+Épisode 1563/10000: R=2.0, Steps=1897
+Épisode 1564/10000: R=1.0, Steps=2208
+Épisode 1565/10000: R=2.0, Steps=1668
+Épisode 1566/10000: R=5.0, Steps=3573
+Épisode 1567/10000: R=1.0, Steps=2918
+Épisode 1568/10000: R=2.0, Steps=3830
+Épisode 1569/10000: R=6.0, Steps=1103
+Épisode 1570/10000: R=3.0, Steps=978
+Épisode 1571/10000: R=3.0, Steps=3759
+Épisode 1572/10000: R=3.0, Steps=2462
+Épisode 1573/10000: R=8.0, Steps=1477
+Épisode 1574/10000: R=2.0, Steps=800
+Épisode 1575/10000: R=3.0, Steps=1033
+(Agent) Mise à jour du fichier modèle
+Épisode 1576/10000: R=4.0, Steps=1320
+Épisode 1577/10000: R=4.0, Steps=2323
+Épisode 1578/10000: R=1.0, Steps=297
+Épisode 1579/10000: R=1.0, Steps=2805
+Épisode 1580/10000: R=3.0, Steps=1742
+Épisode 1582/10000: R=3.0, Steps=1790
+Épisode 1583/10000: R=1.0, Steps=2821
+Épisode 1584/10000: R=1.0, Steps=1426
+Épisode 1585/10000: R=1.0, Steps=2090
+Épisode 1586/10000: R=1.0, Steps=3697
+Épisode 1587/10000: R=2.0, Steps=2522
+Épisode 1588/10000: R=1.0, Steps=1875
+Épisode 1589/10000: R=2.0, Steps=972
+Épisode 1590/10000: R=1.0, Steps=4149
+Épisode 1592/10000: R=1.0, Steps=1675
+Épisode 1593/10000: R=2.0, Steps=1393
+Épisode 1594/10000: R=1.0, Steps=1657
+Épisode 1595/10000: R=1.0, Steps=1433
+Épisode 1596/10000: R=1.0, Steps=2171
+Épisode 1597/10000: R=2.0, Steps=2231
+Épisode 1599/10000: R=1.0, Steps=1872
+(Agent) Mise à jour du fichier modèle
+Épisode 1602/10000: R=2.0, Steps=1102
+Épisode 1604/10000: R=2.0, Steps=1407
+Épisode 1609/10000: R=1.0, Steps=1761
+Épisode 1610/10000: R=1.0, Steps=1487
+Épisode 1613/10000: R=1.0, Steps=3702
+Épisode 1614/10000: R=1.0, Steps=2356
+Épisode 1617/10000: R=2.0, Steps=4699
+Épisode 1618/10000: R=1.0, Steps=1065
+(Agent) Mise à jour du fichier modèle
+Épisode 1626/10000: R=2.0, Steps=1845
+Épisode 1630/10000: R=1.0, Steps=2851
+Épisode 1636/10000: R=2.0, Steps=1271
+Épisode 1640/10000: R=2.0, Steps=1881
+Épisode 1642/10000: R=1.0, Steps=2269
+Épisode 1644/10000: R=1.0, Steps=2082
+Épisode 1645/10000: R=1.0, Steps=519
+Épisode 1646/10000: R=1.0, Steps=2206
+Épisode 1647/10000: R=2.0, Steps=2751
+Épisode 1648/10000: R=1.0, Steps=1654
+(Agent) Mise à jour du fichier modèle
+Épisode 1652/10000: R=1.0, Steps=3008
+Épisode 1653/10000: R=1.0, Steps=1435
+Épisode 1656/10000: R=1.0, Steps=1341
+Épisode 1658/10000: R=1.0, Steps=2443
+Épisode 1662/10000: R=3.0, Steps=1532
+Épisode 1664/10000: R=3.0, Steps=3141
+Épisode 1665/10000: R=1.0, Steps=1507
+Épisode 1666/10000: R=1.0, Steps=1906
+Épisode 1668/10000: R=1.0, Steps=2934
+Épisode 1669/10000: R=4.0, Steps=1337
+Épisode 1671/10000: R=5.0, Steps=3416
+Épisode 1674/10000: R=1.0, Steps=3192
+(Agent) Mise à jour du fichier modèle
+Épisode 1678/10000: R=1.0, Steps=814
+Épisode 1680/10000: R=3.0, Steps=2154
+Épisode 1681/10000: R=3.0, Steps=2167
+Épisode 1682/10000: R=2.0, Steps=808
+Épisode 1686/10000: R=1.0, Steps=928
+Épisode 1689/10000: R=3.0, Steps=1819
+Épisode 1690/10000: R=3.0, Steps=1764
+Épisode 1691/10000: R=1.0, Steps=2081
+Épisode 1694/10000: R=2.0, Steps=3308
+(Agent) Mise à jour du fichier modèle
+Épisode 1705/10000: R=3.0, Steps=2564
+Épisode 1707/10000: R=4.0, Steps=4085
+Épisode 1711/10000: R=3.0, Steps=870
+Épisode 1712/10000: R=1.0, Steps=1482
+Épisode 1714/10000: R=2.0, Steps=3576
+Épisode 1715/10000: R=1.0, Steps=2529
+Épisode 1716/10000: R=3.0, Steps=4794
+Épisode 1718/10000: R=2.0, Steps=1415
+Épisode 1720/10000: R=2.0, Steps=1590
+Épisode 1721/10000: R=6.0, Steps=3479
+Épisode 1723/10000: R=2.0, Steps=3124
+Épisode 1724/10000: R=1.0, Steps=2273
+(Agent) Mise à jour du fichier modèle
+Épisode 1727/10000: R=3.0, Steps=1155
+Épisode 1733/10000: R=2.0, Steps=717
+Épisode 1735/10000: R=2.0, Steps=2823
+Épisode 1743/10000: R=3.0, Steps=2882
+Épisode 1744/10000: R=2.0, Steps=853
+Épisode 1747/10000: R=2.0, Steps=1756
+Épisode 1748/10000: R=3.0, Steps=1846
+Épisode 1749/10000: R=1.0, Steps=1075
+Épisode 1750/10000: R=3.0, Steps=1520
+(Agent) Mise à jour du fichier modèle
+Épisode 1751/10000: R=3.0, Steps=1766
+Épisode 1752/10000: R=2.0, Steps=943
+Épisode 1753/10000: R=1.0, Steps=1938
+Épisode 1754/10000: R=2.0, Steps=1045
+Épisode 1755/10000: R=3.0, Steps=1201
+Épisode 1761/10000: R=2.0, Steps=3498
+Épisode 1763/10000: R=2.0, Steps=2977
+Épisode 1765/10000: R=1.0, Steps=2305
+Épisode 1769/10000: R=2.0, Steps=2340
+Épisode 1770/10000: R=3.0, Steps=1664
+Épisode 1772/10000: R=3.0, Steps=1964
+Épisode 1773/10000: R=2.0, Steps=698
+(Agent) Mise à jour du fichier modèle
+Épisode 1776/10000: R=2.0, Steps=2920
+Épisode 1778/10000: R=2.0, Steps=3600
+Épisode 1780/10000: R=1.0, Steps=1502
+Épisode 1782/10000: R=1.0, Steps=3176
+Épisode 1783/10000: R=2.0, Steps=2656
+Épisode 1784/10000: R=1.0, Steps=900
+Épisode 1785/10000: R=2.0, Steps=666
+Épisode 1786/10000: R=2.0, Steps=1741
+Épisode 1788/10000: R=1.0, Steps=1689
+Épisode 1793/10000: R=3.0, Steps=3905
+Épisode 1794/10000: R=5.0, Steps=924
+Épisode 1795/10000: R=2.0, Steps=925
+Épisode 1796/10000: R=4.0, Steps=1012
+Épisode 1798/10000: R=1.0, Steps=4117
+Épisode 1799/10000: R=2.0, Steps=2447
+(Agent) Mise à jour du fichier modèle
+Épisode 1801/10000: R=2.0, Steps=2367
+Épisode 1802/10000: R=1.0, Steps=1968
+Épisode 1804/10000: R=2.0, Steps=2906
+Épisode 1807/10000: R=4.0, Steps=2433
+Épisode 1810/10000: R=1.0, Steps=2199
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' chargé avec succès
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-18 23:32:42...
+--------------------------------------------------------
+Épisode 1/1000: R=4.0, Steps=1784
+	Nouveau meilleur score à: 4.0, épisode #1
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-18 23:35:03...
+--------------------------------------------------------
+Épisode 2/1000: R=1.0, Steps=4076
+	Nouveau meilleur score à: 1.0, épisode #2
+(Agent) Mise à jour du fichier modèle
+
+Fin des épisodes
+Meilleur score obtenu: 1.0
+Temps de traitement: 1.9 minutes
+Durée moyenne: 1475.8 actions
+
+0.25 points en moyenne
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-18 23:37:45...
+--------------------------------------------------------
+Épisode 1/1000: R=1.0, Steps=1073
+	Nouveau meilleur score à: 1.0, épisode #1
+*** Arrêt demandé par l'usager ***
+(Agent) Mise à jour du fichier modèle
+
+Fin des épisodes
+Meilleur score obtenu: 1.0
+Temps de traitement: 0.1 minutes
+Durée moyenne: 536.5 actions
+
+0.5 points en moyenne
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-18 23:38:07...
+--------------------------------------------------------
+*** Arrêt demandé par l'usager ***
+(Agent) Mise à jour du fichier modèle
+
+Fin des épisodes
+Meilleur score obtenu: 0
+Temps de traitement: 1.1 minutes
+Durée moyenne: 889.5 actions
+
+0.0 points en moyenne
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_4couchesX128_lr0.0001_tau0.025_batch128_epoch1000_5_vies.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-18 23:39:34...
+--------------------------------------------------------
+*** Arrêt demandé par l'usager ***
+(Agent) Mise à jour du fichier modèle
+
+Fin des épisodes
+Meilleur score obtenu: 0
+Temps de traitement: 2.9 minutes
+Durée moyenne: 1281.0 actions
+
+0.0 points en moyenne
+

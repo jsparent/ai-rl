@@ -1,0 +1,327 @@
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_2couchesX128_lr0.0001_tau0.05_batch64_epoch1001_5_vies_AVEC_PÉNALITÉS.h5' n'existe pas, création d'un nouveau modèle
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 100 épisodes, débutée le 2020-11-19 20:21:30...
+--------------------------------------------------------
+(Agent) self.epsilon rendu à 0.975
+(Agent) self.epsilon rendu à 0.9506249999999999
+Épisode 1/100: R=1.0, Steps=207
+	Nouveau meilleur score à: 1.0, épisode #1
+(Agent) self.epsilon rendu à 0.9268593749999999
+(Agent) self.epsilon rendu à 0.9036878906249999
+Épisode 2/100: R=2.0, Steps=281
+	Nouveau meilleur score à: 2.0, épisode #2
+(Agent) self.epsilon rendu à 0.8810956933593749
+(Agent) self.epsilon rendu à 0.8590683010253904
+(Agent) self.epsilon rendu à 0.8375915934997556
+(Agent) self.epsilon rendu à 0.8166518036622618
+Épisode 4/100: R=1.0, Steps=223
+(Agent) self.epsilon rendu à 0.7962355085707052
+(Agent) self.epsilon rendu à 0.7763296208564376
+(Agent) self.epsilon rendu à 0.7569213803350267
+(Agent) self.epsilon rendu à 0.7379983458266509
+Épisode 5/100: R=3.0, Steps=337
+	Nouveau meilleur score à: 3.0, épisode #5
+(Agent) self.epsilon rendu à 0.7195483871809846
+(Agent) self.epsilon rendu à 0.70155967750146
+(Agent) self.epsilon rendu à 0.6840206855639235
+Épisode 6/100: R=2.0, Steps=308
+(Agent) self.epsilon rendu à 0.6669201684248254
+(Agent) self.epsilon rendu à 0.6502471642142047
+(Agent) self.epsilon rendu à 0.6339909851088495
+(Agent) self.epsilon rendu à 0.6181412104811282
+Épisode 8/100: R=2.0, Steps=269
+(Agent) self.epsilon rendu à 0.6026876802191
+(Agent) self.epsilon rendu à 0.5876204882136226
+(Agent) self.epsilon rendu à 0.572929976008282
+(Agent) self.epsilon rendu à 0.558606726608075
+Épisode 9/100: R=3.0, Steps=345
+(Agent) self.epsilon rendu à 0.5446415584428731
+(Agent) self.epsilon rendu à 0.5310255194818012
+(Agent) self.epsilon rendu à 0.5177498814947562
+(Agent) self.epsilon rendu à 0.5048061344573873
+(Agent) self.epsilon rendu à 0.49218598109595263
+Épisode 11/100: R=3.0, Steps=363
+(Agent) self.epsilon rendu à 0.4798813315685538
+(Agent) self.epsilon rendu à 0.4678842982793399
+(Agent) self.epsilon rendu à 0.4561871908223564
+Épisode 12/100: R=2.0, Steps=312
+(Agent) self.epsilon rendu à 0.4447825110517975
+(Agent) self.epsilon rendu à 0.43366294827550256
+(Agent) self.epsilon rendu à 0.42282137456861496
+(Agent) self.epsilon rendu à 0.41225084020439956
+Épisode 13/100: R=3.0, Steps=360
+(Agent) self.epsilon rendu à 0.40194456919928956
+(Agent) self.epsilon rendu à 0.3918959549693073
+(Agent) self.epsilon rendu à 0.3820985560950746
+(Agent) self.epsilon rendu à 0.37254609219269774
+(Agent) self.epsilon rendu à 0.3632324398878803
+Épisode 14/100: R=5.0, Steps=471
+	Nouveau meilleur score à: 5.0, épisode #14
+(Agent) self.epsilon rendu à 0.35415162889068325
+(Agent) self.epsilon rendu à 0.34529783816841614
+Épisode 15/100: R=2.0, Steps=269
+(Agent) self.epsilon rendu à 0.3366653922142057
+(Agent) self.epsilon rendu à 0.32824875740885057
+(Agent) self.epsilon rendu à 0.3200425384736293
+(Agent) self.epsilon rendu à 0.3120414750117885
+Épisode 16/100: R=2.0, Steps=329
+(Agent) self.epsilon rendu à 0.3042404381364938
+(Agent) self.epsilon rendu à 0.2966344271830815
+Épisode 17/100: R=2.0, Steps=277
+(Agent) self.epsilon rendu à 0.2892185665035044
+(Agent) self.epsilon rendu à 0.2819881023409168
+(Agent) self.epsilon rendu à 0.27493839978239387
+Épisode 18/100: R=2.0, Steps=267
+(Agent) self.epsilon rendu à 0.268064939787834
+(Agent) self.epsilon rendu à 0.2613633162931382
+(Agent) self.epsilon rendu à 0.2548292333858097
+Épisode 19/100: R=2.0, Steps=270
+(Agent) self.epsilon rendu à 0.24845850255116445
+(Agent) self.epsilon rendu à 0.24224703998738534
+(Agent) self.epsilon rendu à 0.2361908639877007
+Épisode 20/100: R=3.0, Steps=362
+(Agent) self.epsilon rendu à 0.23028609238800818
+(Agent) self.epsilon rendu à 0.22452894007830798
+(Agent) self.epsilon rendu à 0.21891571657635028
+Épisode 21/100: R=2.0, Steps=276
+(Agent) self.epsilon rendu à 0.21344282366194153
+(Agent) self.epsilon rendu à 0.208106753070393
+(Agent) self.epsilon rendu à 0.20290408424363318
+Épisode 22/100: R=2.0, Steps=258
+(Agent) self.epsilon rendu à 0.19783148213754234
+(Agent) self.epsilon rendu à 0.19288569508410378
+(Agent) self.epsilon rendu à 0.18806355270700117
+Épisode 23/100: R=3.0, Steps=373
+(Agent) self.epsilon rendu à 0.18336196388932613
+(Agent) self.epsilon rendu à 0.17877791479209298
+(Agent) self.epsilon rendu à 0.17430846692229066
+(Agent) self.epsilon rendu à 0.1699507552492334
+(Agent) self.epsilon rendu à 0.16570198636800254
+(Agent) self.epsilon rendu à 0.16155943670880246
+Épisode 25/100: R=3.0, Steps=349
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.1575204507910824
+(Agent) self.epsilon rendu à 0.15358243952130535
+(Agent) self.epsilon rendu à 0.1497428785332727
+Épisode 26/100: R=2.0, Steps=280
+(Agent) self.epsilon rendu à 0.14599930656994087
+(Agent) self.epsilon rendu à 0.14234932390569235
+Épisode 27/100: R=2.0, Steps=267
+(Agent) self.epsilon rendu à 0.13879059080805004
+(Agent) self.epsilon rendu à 0.13532082603784878
+(Agent) self.epsilon rendu à 0.13193780538690256
+(Agent) self.epsilon rendu à 0.12863936025223
+(Agent) self.epsilon rendu à 0.12542337624592423
+Épisode 28/100: R=4.0, Steps=471
+(Agent) self.epsilon rendu à 0.12228779183977612
+(Agent) self.epsilon rendu à 0.11923059704378171
+(Agent) self.epsilon rendu à 0.11624983211768716
+(Agent) self.epsilon rendu à 0.11334358631474498
+(Agent) self.epsilon rendu à 0.11050999665687634
+(Agent) self.epsilon rendu à 0.10774724674045444
+Épisode 31/100: R=3.0, Steps=301
+(Agent) self.epsilon rendu à 0.10505356557194308
+(Agent) self.epsilon rendu à 0.1024272264326445
+(Agent) self.epsilon rendu à 0.09986654577182838
+(Agent) self.epsilon rendu à 0.09736988212753267
+Épisode 32/100: R=4.0, Steps=380
+(Agent) self.epsilon rendu à 0.09493563507434435
+(Agent) self.epsilon rendu à 0.09256224419748574
+(Agent) self.epsilon rendu à 0.09024818809254859
+(Agent) self.epsilon rendu à 0.08799198339023487
+Épisode 33/100: R=3.0, Steps=391
+(Agent) self.epsilon rendu à 0.085792183805479
+(Agent) self.epsilon rendu à 0.08364737921034202
+(Agent) self.epsilon rendu à 0.08155619473008346
+Épisode 34/100: R=3.0, Steps=335
+(Agent) self.epsilon rendu à 0.07951728986183138
+(Agent) self.epsilon rendu à 0.0775293576152856
+(Agent) self.epsilon rendu à 0.07559112367490345
+(Agent) self.epsilon rendu à 0.07370134558303086
+(Agent) self.epsilon rendu à 0.07185881194345509
+(Agent) self.epsilon rendu à 0.07006234164486871
+(Agent) self.epsilon rendu à 0.068310783103747
+Épisode 36/100: R=3.0, Steps=458
+(Agent) self.epsilon rendu à 0.06660301352615332
+(Agent) self.epsilon rendu à 0.06493793818799948
+(Agent) self.epsilon rendu à 0.06331448973329949
+(Agent) self.epsilon rendu à 0.061731627489967
+Épisode 37/100: R=1.0, Steps=440
+(Agent) self.epsilon rendu à 0.060188336802717825
+(Agent) self.epsilon rendu à 0.05868362838264988
+(Agent) self.epsilon rendu à 0.05721653767308363
+Épisode 38/100: R=2.0, Steps=348
+(Agent) self.epsilon rendu à 0.055786124231256534
+(Agent) self.epsilon rendu à 0.05439147112547512
+(Agent) self.epsilon rendu à 0.053031684347338244
+Épisode 39/100: R=2.0, Steps=277
+(Agent) self.epsilon rendu à 0.05170589223865479
+(Agent) self.epsilon rendu à 0.050413244932688416
+(Agent) self.epsilon rendu à 0.0491529138093712
+Épisode 40/100: R=1.0, Steps=266
+(Agent) self.epsilon rendu à 0.04792409096413692
+(Agent) self.epsilon rendu à 0.04672598869003349
+Épisode 41/100: R=1.0, Steps=221
+(Agent) self.epsilon rendu à 0.045557838972782656
+(Agent) self.epsilon rendu à 0.04441889299846309
+(Agent) self.epsilon rendu à 0.04330842067350151
+(Agent) self.epsilon rendu à 0.04222571015666397
+(Agent) self.epsilon rendu à 0.041170067402747375
+(Agent) self.epsilon rendu à 0.04014081571767869
+(Agent) self.epsilon rendu à 0.03913729532473672
+(Agent) self.epsilon rendu à 0.0381588629416183
+(Agent) self.epsilon rendu à 0.03720489136807784
+Épisode 43/100: R=2.0, Steps=247
+(Agent) self.epsilon rendu à 0.0362747690838759
+(Agent) self.epsilon rendu à 0.035367899856778996
+Épisode 44/100: R=2.0, Steps=244
+(Agent) self.epsilon rendu à 0.03448370236035952
+(Agent) self.epsilon rendu à 0.03362160980135053
+(Agent) self.epsilon rendu à 0.032781069556316766
+Épisode 45/100: R=1.0, Steps=234
+(Agent) self.epsilon rendu à 0.031961542817408845
+(Agent) self.epsilon rendu à 0.031162504246973623
+(Agent) self.epsilon rendu à 0.030383441640799282
+(Agent) self.epsilon rendu à 0.0296238555997793
+Épisode 46/100: R=4.0, Steps=415
+(Agent) self.epsilon rendu à 0.028883259209784816
+(Agent) self.epsilon rendu à 0.028161177729540195
+Épisode 47/100: R=2.0, Steps=257
+(Agent) self.epsilon rendu à 0.027457148286301688
+(Agent) self.epsilon rendu à 0.026770719579144144
+(Agent) self.epsilon rendu à 0.02610145158966554
+Épisode 48/100: R=2.0, Steps=267
+(Agent) self.epsilon rendu à 0.0254489152999239
+(Agent) self.epsilon rendu à 0.024812692417425803
+(Agent) self.epsilon rendu à 0.02419237510699016
+(Agent) self.epsilon rendu à 0.023587565729315405
+(Agent) self.epsilon rendu à 0.02299787658608252
+(Agent) self.epsilon rendu à 0.022422929671430458
+(Agent) self.epsilon rendu à 0.021862356429644694
+(Agent) self.epsilon rendu à 0.021315797518903577
+(Agent) self.epsilon rendu à 0.020782902580930986
+(Agent) self.epsilon rendu à 0.02026333001640771
+(Agent) self.epsilon rendu à 0.019756746765997518
+(Agent) self.epsilon rendu à 0.019262828096847578
+Épisode 50/100: R=1.0, Steps=275
+(Agent) Mise à jour du fichier modèle
+(Agent) self.epsilon rendu à 0.018781257394426387
+(Agent) self.epsilon rendu à 0.018311725959565726
+(Agent) self.epsilon rendu à 0.017853932810576584
+Épisode 51/100: R=2.0, Steps=302
+(Agent) self.epsilon rendu à 0.01740758449031217
+(Agent) self.epsilon rendu à 0.016972394878054364
+(Agent) self.epsilon rendu à 0.016548085006103004
+(Agent) self.epsilon rendu à 0.01613438288095043
+Épisode 52/100: R=1.0, Steps=453
+(Agent) self.epsilon rendu à 0.01573102330892667
+(Agent) self.epsilon rendu à 0.015337747726203502
+(Agent) self.epsilon rendu à 0.014954304033048415
+Épisode 53/100: R=2.0, Steps=266
+(Agent) self.epsilon rendu à 0.014580446432222205
+(Agent) self.epsilon rendu à 0.014215935271416649
+Épisode 54/100: R=1.0, Steps=232
+(Agent) self.epsilon rendu à 0.013860536889631231
+(Agent) self.epsilon rendu à 0.01351402346739045
+(Agent) self.epsilon rendu à 0.013176172880705687
+Épisode 55/100: R=2.0, Steps=243
+(Agent) self.epsilon rendu à 0.012846768558688045
+(Agent) self.epsilon rendu à 0.012525599344720844
+(Agent) self.epsilon rendu à 0.012212459361102823
+(Agent) self.epsilon rendu à 0.011907147877075253
+(Agent) self.epsilon rendu à 0.011609469180148371
+(Agent) self.epsilon rendu à 0.01131923245064466
+(Agent) self.epsilon rendu à 0.011036251639378544
+Épisode 58/100: R=3.0, Steps=299
+(Agent) self.epsilon rendu à 0.01076034534839408
+(Agent) self.epsilon rendu à 0.010491336714684227
+(Agent) self.epsilon rendu à 0.010229053296817121
+(Agent) self.epsilon rendu à 0.01
+Épisode 60/100: R=1.0, Steps=238
+Épisode 61/100: R=1.0, Steps=214
+Épisode 63/100: R=1.0, Steps=947
+Épisode 64/100: R=2.0, Steps=267
+Épisode 66/100: R=3.0, Steps=378
+Épisode 68/100: R=4.0, Steps=350
+Épisode 70/100: R=3.0, Steps=337
+Épisode 72/100: R=1.0, Steps=262
+Épisode 73/100: R=2.0, Steps=275
+Épisode 74/100: R=1.0, Steps=314
+Épisode 75/100: R=2.0, Steps=415
+(Agent) Mise à jour du fichier modèle
+Épisode 77/100: R=4.0, Steps=759
+Épisode 78/100: R=1.0, Steps=214
+Épisode 79/100: R=1.0, Steps=248
+Épisode 80/100: R=1.0, Steps=269
+Épisode 81/100: R=4.0, Steps=809
+Épisode 83/100: R=5.0, Steps=405
+Épisode 84/100: R=2.0, Steps=314
+Épisode 85/100: R=2.0, Steps=327
+Épisode 86/100: R=2.0, Steps=322
+Épisode 87/100: R=4.0, Steps=393
+Épisode 88/100: R=3.0, Steps=359
+Épisode 89/100: R=1.0, Steps=392
+Épisode 90/100: R=3.0, Steps=533
+Épisode 94/100: R=6.0, Steps=595
+	Nouveau meilleur score à: 6.0, épisode #94
+Épisode 96/100: R=1.0, Steps=439
+Épisode 97/100: R=2.0, Steps=381
+Épisode 99/100: R=1.0, Steps=1055
+Épisode 100/100: R=2.0, Steps=792
+(Agent) Mise à jour du fichier modèle
+(Agent) Mise à jour du fichier modèle
+
+Fin des épisodes
+Meilleur score obtenu: 6.0
+Temps de traitement: 10.5 minutes
+Durée moyenne: 328.3 actions
+Score moyen: 1.7 points
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_2couchesX128_lr0.0001_tau0.05_batch64_epoch1001_5_vies_AVEC_PÉNALITÉS.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 2 épisodes, débutée le 2020-11-21 14:50:28...
+--------------------------------------------------------
+(Agent) self.epsilon rendu à 0.975
+(Agent) self.epsilon rendu à 0.9506249999999999
+(Agent) self.epsilon rendu à 0.9268593749999999
+
+Fin des épisodes
+Meilleur score obtenu: 0
+Durée moyenne: 116.3 actions
+Score moyen: 0.0 points
+
+(Agent) Mise à jour du fichier modèle
+Temps de traitement: 0.2 minutes
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.dqn.model_Test_2couchesX128_lr0.0001_tau0.05_batch64_epoch1001_5_vies_AVEC_PÉNALITÉS.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 2 épisodes, débutée le 2020-11-21 14:56:57...
+--------------------------------------------------------
+(Agent) self.epsilon rendu à 0.975
+(Agent) self.epsilon rendu à 0.9506249999999999
+Épisode 1/2: R=1.0, Steps=208
+	Nouveau meilleur score à: 1.0, épisode #1
+(Agent) self.epsilon rendu à 0.9268593749999999
+
+Fin des épisodes
+Meilleur score obtenu: 1.0
+Durée moyenne: 128.7 actions
+Score moyen: 0.33 points
+
+(Agent) Mise à jour du fichier modèle
+Temps de traitement: 0.1 minutes
+--------------------------------------------------------
+

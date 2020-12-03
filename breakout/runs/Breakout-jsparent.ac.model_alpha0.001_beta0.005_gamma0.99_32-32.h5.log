@@ -1,0 +1,22 @@
+
+--------------------------------------------------------
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.001_beta0.005_gamma0.99_32-32_actor.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.001_beta0.005_gamma0.99_32-32_actor.h5' n'existe pas, création d'un nouveau modèle
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.001_beta0.005_gamma0.99_32-32_critic.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.001_beta0.005_gamma0.99_32-32_critic.h5' n'existe pas, création d'un nouveau modèle
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-22 13:58:11...
+--------------------------------------------------------
+(Agent) Mise à jour des fichiers modèle
+	Épisode 25
+	Nouveau meilleur score à: 2.0, épisode #35
+	Nouveau meilleur score à: 4.0, épisode #42
+(Agent) Mise à jour des fichiers modèle
+	Épisode 50
+	Nouveau meilleur score à: 5.0, épisode #57
+(Agent) Mise à jour des fichiers modèle
+	Épisode 75
+(Agent) Mise à jour des fichiers modèle
+	Épisode 100

@@ -1,0 +1,768 @@
+Modèle 'Breakout-jsparent.dqn.model_Test1_2couchesX128_lr0.00015_tau0.075.h5' chargé avec succès
+Épisode 1/2500: R=1.0, Steps=106
+	Nouveau meilleur score à date (pour une vie): 1.0, épisode #1
+Épisode 3/2500: R=1.0, Steps=86
+Épisode 9/2500: R=1.0, Steps=83
+Épisode 10/2500: R=2.0, Steps=140
+	Nouveau meilleur score à date (pour une vie): 2.0, épisode #10
+Épisode 12/2500: R=2.0, Steps=162
+(Agent) self.epsilon rendu à 0.975
+Épisode 22/2500: R=1.0, Steps=75
+Épisode 23/2500: R=1.0, Steps=94
+Épisode 24/2500: R=1.0, Steps=108
+-> Épisode 25/2500: R=1.0, Steps=95
+	(Mise à jour du fichier modèle)
+Épisode 25/2500: R=1.0, Steps=95
+Épisode 26/2500: R=1.0, Steps=99
+Épisode 33/2500: R=1.0, Steps=100
+(Agent) self.epsilon rendu à 0.9506249999999999
+Épisode 38/2500: R=1.0, Steps=104
+Épisode 39/2500: R=1.0, Steps=104
+Épisode 47/2500: R=2.0, Steps=141
+-> Épisode 50/2500: R=0.0, Steps=40
+	(Mise à jour du fichier modèle)
+Épisode 51/2500: R=1.0, Steps=70
+(Agent) self.epsilon rendu à 0.9268593749999999
+Épisode 55/2500: R=2.0, Steps=165
+Épisode 56/2500: R=1.0, Steps=74
+Épisode 59/2500: R=2.0, Steps=135
+Épisode 64/2500: R=1.0, Steps=72
+Épisode 66/2500: R=1.0, Steps=74
+Épisode 67/2500: R=1.0, Steps=109
+Épisode 69/2500: R=1.0, Steps=99
+(Agent) self.epsilon rendu à 0.9036878906249999
+-> Épisode 75/2500: R=2.0, Steps=160
+	(Mise à jour du fichier modèle)
+Épisode 75/2500: R=2.0, Steps=160
+Épisode 80/2500: R=1.0, Steps=82
+Épisode 85/2500: R=1.0, Steps=85
+Épisode 88/2500: R=1.0, Steps=71
+(Agent) self.epsilon rendu à 0.8810956933593749
+Épisode 99/2500: R=1.0, Steps=66
+-> Épisode 100/2500: R=0.0, Steps=37
+	(Mise à jour du fichier modèle)
+Épisode 101/2500: R=2.0, Steps=144
+Épisode 103/2500: R=2.0, Steps=158
+(Agent) self.epsilon rendu à 0.8590683010253904
+Épisode 112/2500: R=2.0, Steps=143
+Épisode 114/2500: R=2.0, Steps=142
+Épisode 118/2500: R=2.0, Steps=143
+Épisode 123/2500: R=2.0, Steps=141
+(Agent) self.epsilon rendu à 0.8375915934997556
+-> Épisode 125/2500: R=0.0, Steps=40
+	(Mise à jour du fichier modèle)
+Épisode 126/2500: R=1.0, Steps=96
+Épisode 135/2500: R=1.0, Steps=96
+Épisode 139/2500: R=2.0, Steps=165
+(Agent) self.epsilon rendu à 0.8166518036622618
+Épisode 143/2500: R=2.0, Steps=135
+-> Épisode 150/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+Épisode 152/2500: R=1.0, Steps=99
+Épisode 163/2500: R=2.0, Steps=149
+Épisode 164/2500: R=1.0, Steps=73
+(Agent) self.epsilon rendu à 0.7962355085707052
+Épisode 168/2500: R=2.0, Steps=133
+Épisode 170/2500: R=3.0, Steps=203
+	Nouveau meilleur score à date (pour une vie): 3.0, épisode #170
+-> Épisode 175/2500: R=0.0, Steps=40
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.7763296208564376
+Épisode 191/2500: R=1.0, Steps=73
+Épisode 193/2500: R=1.0, Steps=76
+-> Épisode 200/2500: R=0.0, Steps=39
+	(Mise à jour du fichier modèle)
+Épisode 201/2500: R=2.0, Steps=134
+Épisode 205/2500: R=2.0, Steps=140
+(Agent) self.epsilon rendu à 0.7569213803350267
+Épisode 213/2500: R=2.0, Steps=131
+Épisode 214/2500: R=2.0, Steps=149
+Épisode 215/2500: R=2.0, Steps=163
+Épisode 216/2500: R=1.0, Steps=99
+Épisode 219/2500: R=2.0, Steps=129
+(Agent) self.epsilon rendu à 0.7379983458266509
+-> Épisode 225/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 227/2500: R=1.0, Steps=97
+Épisode 233/2500: R=2.0, Steps=143
+(Agent) self.epsilon rendu à 0.7195483871809846
+Épisode 248/2500: R=2.0, Steps=139
+-> Épisode 250/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+Épisode 252/2500: R=2.0, Steps=146
+Épisode 255/2500: R=1.0, Steps=97
+(Agent) self.epsilon rendu à 0.70155967750146
+Épisode 258/2500: R=2.0, Steps=177
+Épisode 262/2500: R=1.0, Steps=86
+Épisode 263/2500: R=1.0, Steps=94
+Épisode 265/2500: R=2.0, Steps=169
+Épisode 269/2500: R=1.0, Steps=73
+Épisode 271/2500: R=1.0, Steps=80
+Épisode 273/2500: R=1.0, Steps=92
+(Agent) self.epsilon rendu à 0.6840206855639235
+-> Épisode 275/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+Épisode 276/2500: R=1.0, Steps=101
+Épisode 286/2500: R=2.0, Steps=131
+Épisode 287/2500: R=2.0, Steps=143
+(Agent) self.epsilon rendu à 0.6669201684248254
+Épisode 296/2500: R=2.0, Steps=137
+Épisode 298/2500: R=1.0, Steps=92
+Épisode 299/2500: R=2.0, Steps=139
+-> Épisode 300/2500: R=0.0, Steps=51
+	(Mise à jour du fichier modèle)
+Épisode 304/2500: R=2.0, Steps=128
+Épisode 305/2500: R=1.0, Steps=67
+(Agent) self.epsilon rendu à 0.6502471642142047
+Épisode 319/2500: R=1.0, Steps=113
+Épisode 323/2500: R=1.0, Steps=117
+-> Épisode 325/2500: R=2.0, Steps=137
+	(Mise à jour du fichier modèle)
+Épisode 325/2500: R=2.0, Steps=137
+(Agent) self.epsilon rendu à 0.6339909851088495
+Épisode 342/2500: R=2.0, Steps=137
+Épisode 344/2500: R=1.0, Steps=109
+Épisode 345/2500: R=1.0, Steps=108
+-> Épisode 350/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.6181412104811282
+Épisode 372/2500: R=1.0, Steps=138
+(Agent) self.epsilon rendu à 0.6026876802191
+Épisode 373/2500: R=1.0, Steps=131
+-> Épisode 375/2500: R=0.0, Steps=47
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.5876204882136226
+Épisode 397/2500: R=1.0, Steps=78
+-> Épisode 400/2500: R=0.0, Steps=38
+	(Mise à jour du fichier modèle)
+Épisode 421/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.572929976008282
+-> Épisode 425/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 436/2500: R=2.0, Steps=161
+Épisode 438/2500: R=1.0, Steps=102
+(Agent) self.epsilon rendu à 0.558606726608075
+-> Épisode 450/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 454/2500: R=1.0, Steps=100
+(Agent) self.epsilon rendu à 0.5446415584428731
+Épisode 468/2500: R=2.0, Steps=146
+-> Épisode 475/2500: R=0.0, Steps=40
+	(Mise à jour du fichier modèle)
+Épisode 476/2500: R=2.0, Steps=156
+(Agent) self.epsilon rendu à 0.5310255194818012
+Épisode 490/2500: R=2.0, Steps=141
+-> Épisode 500/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.5177498814947562
+-> Épisode 525/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 526/2500: R=2.0, Steps=137
+(Agent) self.epsilon rendu à 0.5048061344573873
+Épisode 541/2500: R=2.0, Steps=142
+Épisode 544/2500: R=1.0, Steps=100
+-> Épisode 550/2500: R=0.0, Steps=50
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.49218598109595263
+Épisode 570/2500: R=2.0, Steps=145
+-> Épisode 575/2500: R=0.0, Steps=40
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.4798813315685538
+Épisode 598/2500: R=2.0, Steps=165
+(Agent) self.epsilon rendu à 0.4678842982793399
+Épisode 599/2500: R=3.0, Steps=173
+-> Épisode 600/2500: R=0.0, Steps=46
+	(Mise à jour du fichier modèle)
+Épisode 608/2500: R=1.0, Steps=82
+(Agent) self.epsilon rendu à 0.4561871908223564
+-> Épisode 625/2500: R=1.0, Steps=69
+	(Mise à jour du fichier modèle)
+Épisode 625/2500: R=1.0, Steps=69
+Épisode 638/2500: R=1.0, Steps=75
+Épisode 640/2500: R=1.0, Steps=74
+(Agent) self.epsilon rendu à 0.4447825110517975
+Épisode 645/2500: R=1.0, Steps=106
+-> Épisode 650/2500: R=0.0, Steps=46
+	(Mise à jour du fichier modèle)
+Épisode 656/2500: R=1.0, Steps=99
+(Agent) self.epsilon rendu à 0.43366294827550256
+-> Épisode 675/2500: R=0.0, Steps=44
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.42282137456861496
+Épisode 693/2500: R=1.0, Steps=73
+Épisode 694/2500: R=1.0, Steps=112
+-> Épisode 700/2500: R=0.0, Steps=48
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.41225084020439956
+-> Épisode 725/2500: R=0.0, Steps=46
+	(Mise à jour du fichier modèle)
+Épisode 730/2500: R=1.0, Steps=76
+(Agent) self.epsilon rendu à 0.40194456919928956
+Épisode 740/2500: R=2.0, Steps=121
+Épisode 743/2500: R=1.0, Steps=76
+-> Épisode 750/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 752/2500: R=1.0, Steps=89
+(Agent) self.epsilon rendu à 0.3918959549693073
+Épisode 763/2500: R=2.0, Steps=167
+Épisode 764/2500: R=1.0, Steps=99
+(Agent) self.epsilon rendu à 0.3820985560950746
+-> Épisode 775/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+Épisode 783/2500: R=1.0, Steps=71
+Épisode 790/2500: R=1.0, Steps=75
+Épisode 791/2500: R=1.0, Steps=73
+(Agent) self.epsilon rendu à 0.37254609219269774
+Épisode 794/2500: R=1.0, Steps=96
+Épisode 797/2500: R=1.0, Steps=72
+-> Épisode 800/2500: R=1.0, Steps=99
+	(Mise à jour du fichier modèle)
+Épisode 800/2500: R=1.0, Steps=99
+Épisode 806/2500: R=1.0, Steps=78
+(Agent) self.epsilon rendu à 0.3632324398878803
+Épisode 813/2500: R=1.0, Steps=93
+Épisode 818/2500: R=1.0, Steps=74
+Épisode 819/2500: R=1.0, Steps=98
+Épisode 821/2500: R=3.0, Steps=211
+Épisode 824/2500: R=1.0, Steps=84
+-> Épisode 825/2500: R=0.0, Steps=50
+	(Mise à jour du fichier modèle)
+Épisode 827/2500: R=1.0, Steps=70
+(Agent) self.epsilon rendu à 0.35415162889068325
+Épisode 829/2500: R=1.0, Steps=99
+Épisode 830/2500: R=1.0, Steps=79
+Épisode 833/2500: R=1.0, Steps=83
+Épisode 835/2500: R=1.0, Steps=100
+Épisode 837/2500: R=1.0, Steps=80
+Épisode 839/2500: R=1.0, Steps=83
+(Agent) self.epsilon rendu à 0.34529783816841614
+-> Épisode 850/2500: R=1.0, Steps=70
+	(Mise à jour du fichier modèle)
+Épisode 850/2500: R=1.0, Steps=70
+Épisode 851/2500: R=1.0, Steps=76
+Épisode 855/2500: R=1.0, Steps=74
+Épisode 856/2500: R=1.0, Steps=99
+Épisode 858/2500: R=1.0, Steps=79
+Épisode 859/2500: R=4.0, Steps=242
+	Nouveau meilleur score à date (pour une vie): 4.0, épisode #859
+(Agent) self.epsilon rendu à 0.3366653922142057
+Épisode 864/2500: R=1.0, Steps=70
+Épisode 867/2500: R=2.0, Steps=130
+Épisode 874/2500: R=1.0, Steps=72
+-> Épisode 875/2500: R=1.0, Steps=74
+	(Mise à jour du fichier modèle)
+Épisode 875/2500: R=1.0, Steps=74
+(Agent) self.epsilon rendu à 0.32824875740885057
+Épisode 878/2500: R=2.0, Steps=164
+Épisode 879/2500: R=1.0, Steps=83
+Épisode 882/2500: R=1.0, Steps=79
+Épisode 883/2500: R=1.0, Steps=88
+Épisode 889/2500: R=1.0, Steps=86
+Épisode 890/2500: R=1.0, Steps=69
+(Agent) self.epsilon rendu à 0.3200425384736293
+Épisode 896/2500: R=1.0, Steps=83
+-> Épisode 900/2500: R=1.0, Steps=72
+	(Mise à jour du fichier modèle)
+Épisode 900/2500: R=1.0, Steps=72
+Épisode 901/2500: R=1.0, Steps=74
+Épisode 905/2500: R=1.0, Steps=145
+Épisode 909/2500: R=1.0, Steps=74
+Épisode 911/2500: R=1.0, Steps=80
+(Agent) self.epsilon rendu à 0.3120414750117885
+Épisode 914/2500: R=2.0, Steps=139
+Épisode 918/2500: R=2.0, Steps=128
+Épisode 920/2500: R=1.0, Steps=70
+Épisode 921/2500: R=2.0, Steps=133
+-> Épisode 925/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 926/2500: R=2.0, Steps=113
+(Agent) self.epsilon rendu à 0.3042404381364938
+Épisode 934/2500: R=2.0, Steps=149
+Épisode 939/2500: R=2.0, Steps=159
+Épisode 941/2500: R=2.0, Steps=139
+(Agent) self.epsilon rendu à 0.2966344271830815
+Épisode 943/2500: R=2.0, Steps=153
+-> Épisode 950/2500: R=0.0, Steps=43
+	(Mise à jour du fichier modèle)
+Épisode 959/2500: R=1.0, Steps=81
+(Agent) self.epsilon rendu à 0.2892185665035044
+Épisode 960/2500: R=2.0, Steps=162
+Épisode 965/2500: R=1.0, Steps=69
+Épisode 966/2500: R=1.0, Steps=78
+Épisode 968/2500: R=1.0, Steps=77
+-> Épisode 975/2500: R=0.0, Steps=55
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.2819881023409168
+Épisode 976/2500: R=2.0, Steps=145
+Épisode 983/2500: R=1.0, Steps=80
+Épisode 987/2500: R=2.0, Steps=122
+Épisode 989/2500: R=2.0, Steps=152
+Épisode 990/2500: R=1.0, Steps=94
+(Agent) self.epsilon rendu à 0.27493839978239387
+Épisode 994/2500: R=2.0, Steps=121
+Épisode 995/2500: R=2.0, Steps=137
+Épisode 996/2500: R=1.0, Steps=80
+Épisode 998/2500: R=2.0, Steps=112
+-> Épisode 1000/2500: R=2.0, Steps=139
+	(Mise à jour du fichier modèle)
+Épisode 1000/2500: R=2.0, Steps=139
+Épisode 1003/2500: R=2.0, Steps=116
+(Agent) self.epsilon rendu à 0.268064939787834
+Épisode 1004/2500: R=3.0, Steps=221
+Épisode 1014/2500: R=1.0, Steps=96
+Épisode 1017/2500: R=1.0, Steps=74
+(Agent) self.epsilon rendu à 0.2613633162931382
+-> Épisode 1025/2500: R=0.0, Steps=38
+	(Mise à jour du fichier modèle)
+Épisode 1034/2500: R=1.0, Steps=68
+(Agent) self.epsilon rendu à 0.2548292333858097
+Épisode 1038/2500: R=2.0, Steps=134
+-> Épisode 1050/2500: R=0.0, Steps=53
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.24845850255116445
+Épisode 1056/2500: R=2.0, Steps=171
+Épisode 1061/2500: R=2.0, Steps=138
+Épisode 1063/2500: R=1.0, Steps=123
+Épisode 1067/2500: R=2.0, Steps=146
+(Agent) self.epsilon rendu à 0.24224703998738534
+Épisode 1068/2500: R=2.0, Steps=138
+Épisode 1069/2500: R=2.0, Steps=141
+Épisode 1070/2500: R=2.0, Steps=130
+-> Épisode 1075/2500: R=0.0, Steps=42
+	(Mise à jour du fichier modèle)
+Épisode 1077/2500: R=2.0, Steps=137
+Épisode 1078/2500: R=1.0, Steps=80
+Épisode 1079/2500: R=1.0, Steps=105
+(Agent) self.epsilon rendu à 0.2361908639877007
+Épisode 1086/2500: R=1.0, Steps=72
+Épisode 1089/2500: R=2.0, Steps=139
+Épisode 1090/2500: R=2.0, Steps=135
+Épisode 1095/2500: R=2.0, Steps=137
+Épisode 1096/2500: R=2.0, Steps=120
+(Agent) self.epsilon rendu à 0.23028609238800818
+Épisode 1098/2500: R=2.0, Steps=115
+Épisode 1099/2500: R=1.0, Steps=70
+-> Épisode 1100/2500: R=1.0, Steps=69
+	(Mise à jour du fichier modèle)
+Épisode 1100/2500: R=1.0, Steps=69
+Épisode 1101/2500: R=1.0, Steps=71
+Épisode 1102/2500: R=1.0, Steps=98
+Épisode 1103/2500: R=1.0, Steps=68
+Épisode 1105/2500: R=2.0, Steps=113
+Épisode 1106/2500: R=1.0, Steps=72
+Épisode 1109/2500: R=2.0, Steps=137
+(Agent) self.epsilon rendu à 0.22452894007830798
+Épisode 1110/2500: R=3.0, Steps=198
+Épisode 1112/2500: R=2.0, Steps=119
+Épisode 1113/2500: R=1.0, Steps=69
+Épisode 1114/2500: R=1.0, Steps=72
+Épisode 1115/2500: R=1.0, Steps=71
+Épisode 1117/2500: R=3.0, Steps=155
+Épisode 1121/2500: R=2.0, Steps=133
+Épisode 1122/2500: R=1.0, Steps=74
+(Agent) self.epsilon rendu à 0.21891571657635028
+-> Épisode 1125/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+Épisode 1126/2500: R=2.0, Steps=107
+Épisode 1128/2500: R=2.0, Steps=143
+Épisode 1129/2500: R=4.0, Steps=248
+Épisode 1131/2500: R=2.0, Steps=139
+Épisode 1136/2500: R=1.0, Steps=68
+(Agent) self.epsilon rendu à 0.21344282366194153
+Épisode 1141/2500: R=2.0, Steps=133
+Épisode 1143/2500: R=1.0, Steps=100
+Épisode 1144/2500: R=1.0, Steps=103
+Épisode 1145/2500: R=1.0, Steps=75
+Épisode 1146/2500: R=2.0, Steps=136
+Épisode 1148/2500: R=2.0, Steps=137
+-> Épisode 1150/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.208106753070393
+Épisode 1152/2500: R=3.0, Steps=155
+Épisode 1154/2500: R=2.0, Steps=142
+Épisode 1164/2500: R=2.0, Steps=136
+Épisode 1166/2500: R=2.0, Steps=140
+(Agent) self.epsilon rendu à 0.20290408424363318
+-> Épisode 1175/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 1176/2500: R=1.0, Steps=92
+Épisode 1186/2500: R=1.0, Steps=70
+Épisode 1188/2500: R=1.0, Steps=98
+(Agent) self.epsilon rendu à 0.19783148213754234
+-> Épisode 1200/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+Épisode 1209/2500: R=1.0, Steps=100
+(Agent) self.epsilon rendu à 0.19288569508410378
+Épisode 1221/2500: R=1.0, Steps=98
+-> Épisode 1225/2500: R=0.0, Steps=37
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.18806355270700117
+Épisode 1246/2500: R=1.0, Steps=99
+-> Épisode 1250/2500: R=0.0, Steps=43
+	(Mise à jour du fichier modèle)
+Épisode 1266/2500: R=1.0, Steps=98
+(Agent) self.epsilon rendu à 0.18336196388932613
+-> Épisode 1275/2500: R=0.0, Steps=41
+	(Mise à jour du fichier modèle)
+Épisode 1285/2500: R=2.0, Steps=137
+(Agent) self.epsilon rendu à 0.17877791479209298
+-> Épisode 1300/2500: R=0.0, Steps=46
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.17430846692229066
+-> Épisode 1325/2500: R=0.0, Steps=38
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.1699507552492334
+(Agent) self.epsilon rendu à 0.16570198636800254
+-> Épisode 1350/2500: R=1.0, Steps=107
+	(Mise à jour du fichier modèle)
+Épisode 1350/2500: R=1.0, Steps=107
+Épisode 1351/2500: R=1.0, Steps=109
+(Agent) self.epsilon rendu à 0.16155943670880246
+Épisode 1370/2500: R=1.0, Steps=106
+-> Épisode 1375/2500: R=0.0, Steps=45
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.1575204507910824
+Épisode 1381/2500: R=1.0, Steps=118
+Épisode 1388/2500: R=1.0, Steps=104
+Épisode 1390/2500: R=1.0, Steps=83
+(Agent) self.epsilon rendu à 0.15358243952130535
+-> Épisode 1400/2500: R=0.0, Steps=51
+	(Mise à jour du fichier modèle)
+Épisode 1407/2500: R=1.0, Steps=101
+(Agent) self.epsilon rendu à 0.1497428785332727
+Épisode 1409/2500: R=1.0, Steps=68
+Épisode 1420/2500: R=1.0, Steps=77
+-> Épisode 1425/2500: R=0.0, Steps=53
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.14599930656994087
+Épisode 1433/2500: R=1.0, Steps=111
+Épisode 1436/2500: R=1.0, Steps=102
+(Agent) self.epsilon rendu à 0.14234932390569235
+Épisode 1446/2500: R=1.0, Steps=116
+Épisode 1447/2500: R=1.0, Steps=72
+Épisode 1448/2500: R=1.0, Steps=77
+-> Épisode 1450/2500: R=0.0, Steps=64
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.13879059080805004
+Épisode 1454/2500: R=1.0, Steps=83
+Épisode 1465/2500: R=1.0, Steps=96
+Épisode 1466/2500: R=1.0, Steps=99
+Épisode 1468/2500: R=1.0, Steps=104
+(Agent) self.epsilon rendu à 0.13532082603784878
+Épisode 1470/2500: R=1.0, Steps=72
+Épisode 1471/2500: R=1.0, Steps=99
+Épisode 1473/2500: R=1.0, Steps=80
+-> Épisode 1475/2500: R=1.0, Steps=139
+	(Mise à jour du fichier modèle)
+Épisode 1475/2500: R=1.0, Steps=139
+Épisode 1477/2500: R=3.0, Steps=225
+Épisode 1478/2500: R=1.0, Steps=174
+(Agent) self.epsilon rendu à 0.13193780538690256
+Épisode 1490/2500: R=1.0, Steps=78
+Épisode 1494/2500: R=1.0, Steps=107
+(Agent) self.epsilon rendu à 0.12863936025223
+Épisode 1497/2500: R=2.0, Steps=187
+Épisode 1498/2500: R=1.0, Steps=111
+-> Épisode 1500/2500: R=1.0, Steps=104
+	(Mise à jour du fichier modèle)
+Épisode 1500/2500: R=1.0, Steps=104
+(Agent) self.epsilon rendu à 0.12542337624592423
+Épisode 1517/2500: R=3.0, Steps=206
+(Agent) self.epsilon rendu à 0.12228779183977612
+Épisode 1520/2500: R=4.0, Steps=253
+Épisode 1523/2500: R=2.0, Steps=150
+Épisode 1524/2500: R=1.0, Steps=160
+-> Épisode 1525/2500: R=1.0, Steps=147
+	(Mise à jour du fichier modèle)
+Épisode 1525/2500: R=1.0, Steps=147
+(Agent) self.epsilon rendu à 0.11923059704378171
+Épisode 1529/2500: R=1.0, Steps=86
+Épisode 1530/2500: R=1.0, Steps=100
+Épisode 1531/2500: R=1.0, Steps=107
+Épisode 1532/2500: R=1.0, Steps=107
+(Agent) self.epsilon rendu à 0.11624983211768716
+Épisode 1542/2500: R=1.0, Steps=147
+Épisode 1543/2500: R=1.0, Steps=105
+Épisode 1544/2500: R=1.0, Steps=123
+Épisode 1548/2500: R=1.0, Steps=100
+Épisode 1549/2500: R=1.0, Steps=113
+-> Épisode 1550/2500: R=2.0, Steps=170
+	(Mise à jour du fichier modèle)
+Épisode 1550/2500: R=2.0, Steps=170
+Épisode 1551/2500: R=1.0, Steps=94
+(Agent) self.epsilon rendu à 0.11334358631474498
+Épisode 1555/2500: R=1.0, Steps=94
+Épisode 1563/2500: R=1.0, Steps=97
+Épisode 1566/2500: R=1.0, Steps=98
+Épisode 1568/2500: R=1.0, Steps=95
+Épisode 1571/2500: R=1.0, Steps=98
+(Agent) self.epsilon rendu à 0.11050999665687634
+Épisode 1574/2500: R=1.0, Steps=99
+-> Épisode 1575/2500: R=1.0, Steps=95
+	(Mise à jour du fichier modèle)
+Épisode 1575/2500: R=1.0, Steps=95
+Épisode 1578/2500: R=1.0, Steps=96
+Épisode 1581/2500: R=1.0, Steps=90
+Épisode 1584/2500: R=2.0, Steps=160
+(Agent) self.epsilon rendu à 0.10774724674045444
+Épisode 1591/2500: R=2.0, Steps=163
+Épisode 1595/2500: R=2.0, Steps=162
+Épisode 1596/2500: R=1.0, Steps=96
+-> Épisode 1600/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+Épisode 1601/2500: R=1.0, Steps=95
+Épisode 1607/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.10505356557194308
+Épisode 1608/2500: R=1.0, Steps=66
+Épisode 1610/2500: R=5.0, Steps=284
+	Nouveau meilleur score à date (pour une vie): 5.0, épisode #1610
+Épisode 1613/2500: R=2.0, Steps=158
+Épisode 1616/2500: R=1.0, Steps=97
+(Agent) self.epsilon rendu à 0.1024272264326445
+Épisode 1624/2500: R=1.0, Steps=97
+-> Épisode 1625/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+Épisode 1630/2500: R=1.0, Steps=100
+Épisode 1632/2500: R=2.0, Steps=133
+Épisode 1633/2500: R=1.0, Steps=96
+Épisode 1634/2500: R=1.0, Steps=91
+Épisode 1638/2500: R=1.0, Steps=92
+(Agent) self.epsilon rendu à 0.09986654577182838
+Épisode 1641/2500: R=1.0, Steps=95
+Épisode 1643/2500: R=1.0, Steps=91
+Épisode 1649/2500: R=1.0, Steps=95
+-> Épisode 1650/2500: R=1.0, Steps=71
+	(Mise à jour du fichier modèle)
+Épisode 1650/2500: R=1.0, Steps=71
+Épisode 1653/2500: R=2.0, Steps=132
+Épisode 1654/2500: R=1.0, Steps=96
+Épisode 1657/2500: R=1.0, Steps=65
+(Agent) self.epsilon rendu à 0.09736988212753267
+Épisode 1659/2500: R=2.0, Steps=112
+Épisode 1662/2500: R=2.0, Steps=135
+Épisode 1663/2500: R=2.0, Steps=136
+Épisode 1669/2500: R=1.0, Steps=69
+Épisode 1671/2500: R=2.0, Steps=119
+Épisode 1673/2500: R=2.0, Steps=129
+(Agent) self.epsilon rendu à 0.09493563507434435
+-> Épisode 1675/2500: R=2.0, Steps=140
+	(Mise à jour du fichier modèle)
+Épisode 1675/2500: R=2.0, Steps=140
+Épisode 1677/2500: R=2.0, Steps=115
+Épisode 1682/2500: R=1.0, Steps=74
+Épisode 1683/2500: R=1.0, Steps=96
+Épisode 1686/2500: R=1.0, Steps=96
+Épisode 1687/2500: R=2.0, Steps=119
+(Agent) self.epsilon rendu à 0.09256224419748574
+Épisode 1696/2500: R=1.0, Steps=90
+Épisode 1697/2500: R=1.0, Steps=94
+-> Épisode 1700/2500: R=0.0, Steps=36
+	(Mise à jour du fichier modèle)
+Épisode 1704/2500: R=1.0, Steps=93
+Épisode 1706/2500: R=2.0, Steps=130
+Épisode 1710/2500: R=1.0, Steps=94
+(Agent) self.epsilon rendu à 0.09024818809254859
+Épisode 1715/2500: R=1.0, Steps=94
+Épisode 1716/2500: R=1.0, Steps=100
+Épisode 1717/2500: R=1.0, Steps=96
+Épisode 1719/2500: R=1.0, Steps=71
+-> Épisode 1725/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 1729/2500: R=1.0, Steps=68
+Épisode 1730/2500: R=1.0, Steps=91
+(Agent) self.epsilon rendu à 0.08799198339023487
+Épisode 1731/2500: R=2.0, Steps=143
+Épisode 1733/2500: R=1.0, Steps=92
+Épisode 1737/2500: R=2.0, Steps=112
+Épisode 1739/2500: R=1.0, Steps=67
+Épisode 1745/2500: R=2.0, Steps=117
+Épisode 1747/2500: R=1.0, Steps=93
+(Agent) self.epsilon rendu à 0.085792183805479
+Épisode 1748/2500: R=1.0, Steps=94
+Épisode 1749/2500: R=1.0, Steps=72
+-> Épisode 1750/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 1753/2500: R=1.0, Steps=97
+Épisode 1758/2500: R=1.0, Steps=95
+Épisode 1760/2500: R=1.0, Steps=98
+Épisode 1763/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.08364737921034202
+Épisode 1767/2500: R=1.0, Steps=95
+Épisode 1768/2500: R=1.0, Steps=95
+-> Épisode 1775/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+Épisode 1776/2500: R=1.0, Steps=95
+Épisode 1777/2500: R=1.0, Steps=94
+Épisode 1781/2500: R=1.0, Steps=96
+Épisode 1784/2500: R=1.0, Steps=92
+(Agent) self.epsilon rendu à 0.08155619473008346
+Épisode 1786/2500: R=1.0, Steps=100
+Épisode 1788/2500: R=1.0, Steps=96
+Épisode 1789/2500: R=1.0, Steps=67
+-> Épisode 1800/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 1809/2500: R=1.0, Steps=97
+(Agent) self.epsilon rendu à 0.07951728986183138
+Épisode 1817/2500: R=1.0, Steps=96
+Épisode 1818/2500: R=1.0, Steps=94
+Épisode 1821/2500: R=1.0, Steps=93
+-> Épisode 1825/2500: R=1.0, Steps=96
+	(Mise à jour du fichier modèle)
+Épisode 1825/2500: R=1.0, Steps=96
+(Agent) self.epsilon rendu à 0.0775293576152856
+Épisode 1836/2500: R=1.0, Steps=101
+Épisode 1844/2500: R=1.0, Steps=73
+Épisode 1846/2500: R=2.0, Steps=146
+Épisode 1847/2500: R=1.0, Steps=74
+-> Épisode 1850/2500: R=1.0, Steps=71
+	(Mise à jour du fichier modèle)
+Épisode 1850/2500: R=1.0, Steps=71
+Épisode 1851/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.07559112367490345
+Épisode 1853/2500: R=1.0, Steps=96
+Épisode 1855/2500: R=1.0, Steps=69
+Épisode 1856/2500: R=1.0, Steps=95
+Épisode 1858/2500: R=1.0, Steps=93
+Épisode 1859/2500: R=1.0, Steps=71
+Épisode 1863/2500: R=1.0, Steps=97
+Épisode 1867/2500: R=2.0, Steps=136
+Épisode 1868/2500: R=1.0, Steps=91
+(Agent) self.epsilon rendu à 0.07370134558303086
+Épisode 1869/2500: R=1.0, Steps=97
+-> Épisode 1875/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+Épisode 1893/2500: R=1.0, Steps=94
+(Agent) self.epsilon rendu à 0.07185881194345509
+-> Épisode 1900/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+-> Épisode 1925/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.07006234164486871
+Épisode 1928/2500: R=1.0, Steps=97
+Épisode 1934/2500: R=1.0, Steps=94
+Épisode 1942/2500: R=1.0, Steps=96
+Épisode 1949/2500: R=1.0, Steps=96
+-> Épisode 1950/2500: R=0.0, Steps=31
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.068310783103747
+Épisode 1954/2500: R=1.0, Steps=93
+Épisode 1955/2500: R=1.0, Steps=95
+Épisode 1956/2500: R=1.0, Steps=96
+Épisode 1958/2500: R=1.0, Steps=89
+Épisode 1961/2500: R=1.0, Steps=94
+Épisode 1963/2500: R=1.0, Steps=92
+(Agent) self.epsilon rendu à 0.06660301352615332
+Épisode 1970/2500: R=1.0, Steps=97
+Épisode 1971/2500: R=1.0, Steps=74
+Épisode 1972/2500: R=1.0, Steps=75
+-> Épisode 1975/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+Épisode 1992/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.06493793818799948
+Épisode 1995/2500: R=1.0, Steps=95
+Épisode 1999/2500: R=1.0, Steps=95
+-> Épisode 2000/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 2003/2500: R=1.0, Steps=98
+Épisode 2004/2500: R=1.0, Steps=93
+Épisode 2013/2500: R=1.0, Steps=89
+(Agent) self.epsilon rendu à 0.06331448973329949
+Épisode 2024/2500: R=1.0, Steps=94
+-> Épisode 2025/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+Épisode 2035/2500: R=1.0, Steps=92
+Épisode 2036/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.061731627489967
+Épisode 2042/2500: R=1.0, Steps=72
+Épisode 2047/2500: R=1.0, Steps=94
+-> Épisode 2050/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+Épisode 2054/2500: R=1.0, Steps=95
+(Agent) self.epsilon rendu à 0.060188336802717825
+Épisode 2064/2500: R=1.0, Steps=97
+Épisode 2068/2500: R=1.0, Steps=68
+-> Épisode 2075/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.05868362838264988
+-> Épisode 2100/2500: R=0.0, Steps=31
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.05721653767308363
+-> Épisode 2125/2500: R=0.0, Steps=30
+	(Mise à jour du fichier modèle)
+Épisode 2131/2500: R=1.0, Steps=94
+-> Épisode 2150/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.055786124231256534
+-> Épisode 2175/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.05439147112547512
+-> Épisode 2200/2500: R=0.0, Steps=35
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.053031684347338244
+-> Épisode 2225/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.05170589223865479
+-> Épisode 2250/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 2255/2500: R=1.0, Steps=98
+(Agent) self.epsilon rendu à 0.050413244932688416
+-> Épisode 2275/2500: R=0.0, Steps=31
+	(Mise à jour du fichier modèle)
+-> Épisode 2300/2500: R=0.0, Steps=33
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.0491529138093712
+-> Épisode 2325/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.04792409096413692
+Épisode 2338/2500: R=1.0, Steps=96
+Épisode 2345/2500: R=1.0, Steps=99
+-> Épisode 2350/2500: R=0.0, Steps=31
+	(Mise à jour du fichier modèle)
+Épisode 2351/2500: R=2.0, Steps=121
+(Agent) self.epsilon rendu à 0.04672598869003349
+Épisode 2361/2500: R=1.0, Steps=102
+Épisode 2364/2500: R=1.0, Steps=94
+-> Épisode 2375/2500: R=0.0, Steps=32
+	(Mise à jour du fichier modèle)
+Épisode 2377/2500: R=2.0, Steps=120
+(Agent) self.epsilon rendu à 0.045557838972782656
+Épisode 2382/2500: R=1.0, Steps=99
+Épisode 2386/2500: R=1.0, Steps=97
+Épisode 2388/2500: R=1.0, Steps=73
+Épisode 2389/2500: R=1.0, Steps=69
+-> Épisode 2400/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+(Agent) self.epsilon rendu à 0.04441889299846309
+Épisode 2402/2500: R=1.0, Steps=77
+Épisode 2406/2500: R=1.0, Steps=70
+Épisode 2409/2500: R=1.0, Steps=99
+Épisode 2411/2500: R=1.0, Steps=97
+Épisode 2414/2500: R=2.0, Steps=113
+Épisode 2415/2500: R=1.0, Steps=100
+Épisode 2416/2500: R=1.0, Steps=98
+(Agent) self.epsilon rendu à 0.04330842067350151
+Épisode 2420/2500: R=1.0, Steps=98
+-> Épisode 2425/2500: R=1.0, Steps=96
+	(Mise à jour du fichier modèle)
+Épisode 2425/2500: R=1.0, Steps=96
+Épisode 2439/2500: R=1.0, Steps=69
+(Agent) self.epsilon rendu à 0.04222571015666397
+Épisode 2443/2500: R=1.0, Steps=75
+Épisode 2445/2500: R=1.0, Steps=71
+Épisode 2448/2500: R=1.0, Steps=76
+Épisode 2449/2500: R=1.0, Steps=100
+-> Épisode 2450/2500: R=0.0, Steps=37
+	(Mise à jour du fichier modèle)
+Épisode 2463/2500: R=1.0, Steps=76
+(Agent) self.epsilon rendu à 0.041170067402747375
+-> Épisode 2475/2500: R=0.0, Steps=34
+	(Mise à jour du fichier modèle)
+Épisode 2477/2500: R=2.0, Steps=115
+Épisode 2479/2500: R=1.0, Steps=105
+Épisode 2480/2500: R=1.0, Steps=71
+(Agent) self.epsilon rendu à 0.04014081571767869
+Épisode 2487/2500: R=1.0, Steps=96
+Épisode 2488/2500: R=1.0, Steps=99
+Épisode 2499/2500: R=1.0, Steps=101
+-> Épisode 2500/2500: R=0.0, Steps=37
+	(Mise à jour du fichier modèle)

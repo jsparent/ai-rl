@@ -1,0 +1,106 @@
+
+--------------------------------------------------------
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.8_32-32_actor.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.8_32-32_actor.h5' n'existe pas, création d'un nouveau modèle
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.8_32-32_critic.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.8_32-32_critic.h5' n'existe pas, création d'un nouveau modèle
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-22 10:31:03...
+--------------------------------------------------------
+(Agent) Mise à jour des fichiers modèle
+	Épisode 25
+(Agent) Mise à jour des fichiers modèle
+	Épisode 50
+	Nouveau meilleur score à: 2.0, épisode #53
+	Nouveau meilleur score à: 3.0, épisode #70
+(Agent) Mise à jour des fichiers modèle
+	Épisode 75
+	Nouveau meilleur score à: 5.0, épisode #79
+(Agent) Mise à jour des fichiers modèle
+	Épisode 100
+(Agent) Mise à jour des fichiers modèle
+	Épisode 125
+(Agent) Mise à jour des fichiers modèle
+	Épisode 150
+(Agent) Mise à jour des fichiers modèle
+	Épisode 175
+	Nouveau meilleur score à: 6.0, épisode #186
+(Agent) Mise à jour des fichiers modèle
+	Épisode 200
+(Agent) Mise à jour des fichiers modèle
+	Épisode 225
+(Agent) Mise à jour des fichiers modèle
+	Épisode 250
+(Agent) Mise à jour des fichiers modèle
+	Épisode 275
+(Agent) Mise à jour des fichiers modèle
+	Épisode 300
+(Agent) Mise à jour des fichiers modèle
+	Épisode 325
+(Agent) Mise à jour des fichiers modèle
+	Épisode 350
+(Agent) Mise à jour des fichiers modèle
+	Épisode 375
+(Agent) Mise à jour des fichiers modèle
+	Épisode 400
+(Agent) Mise à jour des fichiers modèle
+	Épisode 425
+(Agent) Mise à jour des fichiers modèle
+	Épisode 450
+(Agent) Mise à jour des fichiers modèle
+	Épisode 475
+(Agent) Mise à jour des fichiers modèle
+	Épisode 500
+(Agent) Mise à jour des fichiers modèle
+	Épisode 525
+(Agent) Mise à jour des fichiers modèle
+	Épisode 550
+(Agent) Mise à jour des fichiers modèle
+	Épisode 575
+(Agent) Mise à jour des fichiers modèle
+	Épisode 600
+(Agent) Mise à jour des fichiers modèle
+	Épisode 625
+(Agent) Mise à jour des fichiers modèle
+	Épisode 650
+(Agent) Mise à jour des fichiers modèle
+	Épisode 675
+	Nouveau meilleur score à: 9.0, épisode #690
+(Agent) Mise à jour des fichiers modèle
+	Épisode 700
+(Agent) Mise à jour des fichiers modèle
+	Épisode 725
+(Agent) Mise à jour des fichiers modèle
+	Épisode 750
+(Agent) Mise à jour des fichiers modèle
+	Épisode 775
+(Agent) Mise à jour des fichiers modèle
+	Épisode 800
+(Agent) Mise à jour des fichiers modèle
+	Épisode 825
+(Agent) Mise à jour des fichiers modèle
+	Épisode 850
+(Agent) Mise à jour des fichiers modèle
+	Épisode 875
+(Agent) Mise à jour des fichiers modèle
+	Épisode 900
+(Agent) Mise à jour des fichiers modèle
+	Épisode 925
+(Agent) Mise à jour des fichiers modèle
+	Épisode 950
+(Agent) Mise à jour des fichiers modèle
+	Épisode 975
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1000
+
+Fin des épisodes
+- Meilleur score obtenu: 9.0
+- Durée moyenne: 259.0 actions
+- Score moyen: 1.34 points
+
+(Agent) Mise à jour des fichiers modèle
+- Temps de traitement: 88.6 minutes
+--------------------------------------------------------
+

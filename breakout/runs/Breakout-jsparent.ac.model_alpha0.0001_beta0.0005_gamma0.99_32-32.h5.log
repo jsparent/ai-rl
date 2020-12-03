@@ -1,0 +1,531 @@
+
+--------------------------------------------------------
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_actor.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_actor.h5' n'existe pas, création d'un nouveau modèle
+SavedModel file does not exist at: Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_critic.h5/{saved_model.pbtxt|saved_model.pb}
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_critic.h5' n'existe pas, création d'un nouveau modèle
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 1000 épisodes, débutée le 2020-11-21 15:47:58...
+--------------------------------------------------------
+(Agent) Mise à jour des fichiers modèle
+	Épisode 24
+	Nouveau meilleur score à: 2.0, épisode #34
+	Nouveau meilleur score à: 3.0, épisode #43
+	Nouveau meilleur score à: 6.0, épisode #47
+(Agent) Mise à jour des fichiers modèle
+	Épisode 49
+	Nouveau meilleur score à: 12.0, épisode #64
+(Agent) Mise à jour des fichiers modèle
+	Épisode 74
+(Agent) Mise à jour des fichiers modèle
+	Épisode 99
+(Agent) Mise à jour des fichiers modèle
+	Épisode 124
+(Agent) Mise à jour des fichiers modèle
+	Épisode 149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 199
+(Agent) Mise à jour des fichiers modèle
+	Épisode 224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 349
+(Agent) Mise à jour des fichiers modèle
+	Épisode 374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 999
+
+Fin des épisodes
+Meilleur score obtenu: 12.0
+Durée moyenne: 278.8 actions
+Score moyen: 1.42 points
+
+(Agent) Mise à jour des fichiers modèle
+Temps de traitement: 87.5 minutes
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_actor.h5' chargé avec succès
+(Agent) Modèle 'Breakout-jsparent.a3c.model_alpha0.0001_beta0.0005_gamma0.99_32-32_critic.h5' chargé avec succès
+Pour arrêter l'agent, créez un fichier 'stop.txt' dans le dossier
+--------------------------------------------------------
+--------------------------------------------------------
+Nouvelle séquence de 5000 épisodes, débutée le 2020-11-21 19:02:29...
+--------------------------------------------------------
+(Agent) Mise à jour des fichiers modèle
+	Épisode 24
+(Agent) Mise à jour des fichiers modèle
+	Épisode 49
+(Agent) Mise à jour des fichiers modèle
+	Épisode 74
+	Nouveau meilleur score à: 1.0, épisode #93
+	Nouveau meilleur score à: 2.0, épisode #95
+	Nouveau meilleur score à: 3.0, épisode #97
+(Agent) Mise à jour des fichiers modèle
+	Épisode 99
+	Nouveau meilleur score à: 6.0, épisode #110
+(Agent) Mise à jour des fichiers modèle
+	Épisode 124
+	Nouveau meilleur score à: 7.0, épisode #149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 199
+(Agent) Mise à jour des fichiers modèle
+	Épisode 224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 349
+	Nouveau meilleur score à: 8.0, épisode #370
+(Agent) Mise à jour des fichiers modèle
+	Épisode 374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 999
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1024
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1049
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1074
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1099
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1124
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1199
+	Nouveau meilleur score à: 9.0, épisode #1204
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1349
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 1999
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2024
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2049
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2074
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2099
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2124
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2199
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2349
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 2999
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3024
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3049
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3074
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3099
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3124
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3199
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3349
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 3999
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4024
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4049
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4074
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4099
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4124
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4149
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4174
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4199
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4224
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4249
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4274
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4299
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4324
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4349
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4374
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4399
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4424
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4449
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4474
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4499
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4524
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4549
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4574
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4599
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4624
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4649
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4674
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4699
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4724
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4749
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4774
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4799
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4824
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4849
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4874
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4899
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4924
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4949
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4974
+(Agent) Mise à jour des fichiers modèle
+	Épisode 4999
+
+Fin des épisodes
+- Meilleur score obtenu: 9.0
+- Durée moyenne: 289.4 actions
+- Score moyen: 1.92 points
+
+(Agent) Mise à jour des fichiers modèle
+- Temps de traitement: 468.5 minutes
+--------------------------------------------------------
+
